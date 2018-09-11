@@ -11,7 +11,7 @@ double Sqrt(double x) { return x >= 0 ? std::sqrt(x) : 0; }
 struct Vec {
     double x, y;
     
-    Vec(double x = 0, double y = 0): x(x), y(y) {}
+    Vec(double _x = 0, double _y = 0): x(_x), y(_y) {}
     
     Vec operator + (const Vec &oth) const { return Vec(x + oth.x, y + oth.y); }
     Vec operator - (const Vec &oth) const { return Vec(x - oth.x, y - oth.y); }
@@ -36,7 +36,7 @@ struct Line {
     Vec a, b;
     
     Line() = default;
-    Line(Vec a, Vec b): a(a), b(b) {}
+    Line(Vec _a, Vec _b): a(_a), b(_b) {}
     
     Vec v() const { return b - a; }
     double k() const { return !sgn(b.x - a.x) ? INF : (b.y - a.y) / (b.x - a.x); }
@@ -101,7 +101,7 @@ struct Cir {
     double r;
 
     Cir() = default;
-    Cir(Vec o, double r): o(o), r(r) {}
+    Cir(Vec _o, double _r): o(_o), r(_r) {}
 
     Vec PointOnCir(double rad) const { return Vec(o.x + cos(rad) * r, o.y + sin(rad) * r); }
 };
