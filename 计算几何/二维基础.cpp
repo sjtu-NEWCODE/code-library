@@ -1,5 +1,3 @@
-#include <bits/stdc++.h>
-
 const double INF = 1e60;
 const double eps = 1e-8;
 const double pi = acos(-1);
@@ -34,9 +32,20 @@ double Angle(Vec a, Vec b) { return acos(Dot(a, b) / (a.len() * b.len())); }
 
 struct Line {
     Vec a, b;
+    double theta;
     
+    void GetTheta() {
+        theta = atan2(b.y - a.y, b.x - a.x);
+    }
+
     Line() = default;
-    Line(Vec _a, Vec _b): a(_a), b(_b) {}
+    Line(Vec _a, Vec _b): a(_a), b(_b) {
+        GetTheta();
+    }
+
+    bool operator < (const Line &oth) const {
+        return theta < oth.theta;
+    }
     
     Vec v() const { return b - a; }
     double k() const { return !sgn(b.x - a.x) ? INF : (b.y - a.y) / (b.x - a.x); }
