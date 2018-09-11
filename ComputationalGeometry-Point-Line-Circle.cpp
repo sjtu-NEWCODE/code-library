@@ -80,7 +80,7 @@ bool InTriangle(Vec p, std::vector<Vec> tri) {
     if (sgn(Cross(tri[1] - tri[0], tri[2] - tri[0])) < 0)
         std::reverse(tri.begin(), tri.end());
     for (int i = 0; i < 3; ++i)
-        if (Dir(p, Line(p[i], p[(i + 1) % 3])) == 1)
+        if (Dir(p, Line(tri[i], tri[(i + 1) % 3])) == 1)
             return false;
     return true;
 }
@@ -107,9 +107,9 @@ struct Cir {
 };
 
 bool Intersect(Cir c, Line l, Vec &p1, Vec &p2) {
-    double x = Dot(l.a - a.o, l.b - l.a);
+    double x = Dot(l.a - c.o, l.b - l.a);
     double y = (l.b - l.a).len2();
-    double d = Sqr(x) - y * ((l.a - a.o).len2() - Sqr(a.r));
+    double d = Sqr(x) - y * ((l.a - c.o).len2() - Sqr(c.r));
     if (sgn(d) < 0) return false;
     d = std::max(d, 0.);
     Vec p = l.a - (l.v() * (x / y));
@@ -118,14 +118,15 @@ bool Intersect(Cir c, Line l, Vec &p1, Vec &p2) {
     return true;
 }
 
-bool Intersect(Cir c1, Cir c2, Vec &p1, Vec &p2) { // Not suitable for coincident circles
+bool Intersect(Cir a, Cir b, Vec &p1, Vec &p2) { // Not suitable for coincident circles
     double s1 = (a.o - b.o).len();
     if (sgn(s1 - a.r - b.r) > 0 || sgn(s1 - std::abs(a.r - b.r)) < 0) return false;
     double s2 = (Sqr(a.r) - Sqr(b.r)) / s1;
     double aa = (s1 + s2) * 0.5, bb = (s1 - s2) * 0.5;
     Vec o = (b.o - a.o) * (aa / (aa + bb)) + a.o;
-    Vec delta = (b.o - a.o).norm().turn90() * Sqrt()
+    Vec delta = (b.o - a.o).norm().turn90() * Sqrt(a.r * a.r - aa * aa);
     p1 = o + delta; p2 = o - delta;
+    return true;
 }
 
 bool Tangent(Cir c, Vec p0, Vec &p1, Vec &p2) { // In clockwise order
@@ -164,4 +165,19 @@ std::vector<Line> InTangent(Cir c1, Cir c2) { // Internal tangent line
         res.push_back(Line(p2, q2));
     }
     return res;
+}
+
+bool InPoly(Vec p, std::vector<Vec> poly) {
+    int cnt = 0;
+    for (int i = 0; i < (int)poly.size(); ++i) {
+        Vec a = poly[i], b = poly[(i + 1) % poly.size()];
+        if (OnSeg(p, Line(a, b)))
+            return false;
+        int x = sgn(Det(a, p, b));
+        int y = sgn(a.y - p.y);
+        int z = sgn(b.y - p.y);
+        cnt += (x > 0 && y <= 0 && z > 0);
+        cnt -= (x < 0 && z <= 0 && y > 0);
+    }
+    return cnt;
 }
