@@ -1,43 +1,113 @@
-﻿//Fast Fourier Transform 快速傅里叶变换 O(n\log n)
-//By ysf
-//通过题目：COGS2294 释迦（作为拆系数FFT的组成部分）
-//使用时一定要注意double的精度是否足够（极限大概是10^14）
-
-const double pi=acos((double)-1.0);
-
-//手写复数类
-//支持加减乘三种运算
-//+=运算符如果用的不多可以不重载
-struct Complex{
-	double a,b;//由于long double精度和double几乎相同，通常没有必要用long double
-	Complex(double a=0.0,double b=0.0):a(a),b(b){}
-	Complex operator+(const Complex &x)const{return Complex(a+x.a,b+x.b);}
-	Complex operator-(const Complex &x)const{return Complex(a-x.a,b-x.b);}
-	Complex operator*(const Complex &x)const{return Complex(a*x.a-b*x.b,a*x.b+b*x.a);}
-	Complex &operator+=(const Complex &x){return *this=*this+x;}
-}w[maxn],w_inv[maxn];
-
-//FFT初始化 O(n)
-//需要调用sin、cos函数
-void FFT_init(int n){
-	for(int i=0;i<n;i++)//根据单位根的旋转性质可以节省计算单位根逆元的时间
-		w[i]=w_inv[n-i-1]=Complex(cos(2*pi/n*i),sin(2*pi/n*i));
-	//当然不存单位根也可以，只不过在FFT次数较多时很可能会增大常数
+#include<iostream>
+#include<cstdio>
+#include<cmath>
+using namespace std;
+const double eps=1e-8;
+const double PI=acos(-1.0);
+struct Complex
+{
+    double real,image;
+    Complex(double _real,double _image)
+    {
+        real=_real;
+        image=_image;
+    }
+    Complex(){real=0;image=0;}
+};
+ 
+Complex operator + (const Complex &c1, const Complex &c2)
+{
+    return Complex(c1.real + c2.real, c1.image + c2.image);
 }
-
-//FFT主过程 O(n\log n)
-void FFT(Complex *A,int n,int tp){
-	for(int i=1,j=0,k;i<n-1;i++){
-		k=n;
-		do j^=(k>>=1);while(j<k);
-		if(i<j)swap(A[i],A[j]);
+ 
+Complex operator - (const Complex &c1, const Complex &c2)
+{
+    return Complex(c1.real - c2.real, c1.image - c2.image);
+}
+ 
+Complex operator * (const Complex &c1, const Complex &c2)
+{
+    return Complex(c1.real*c2.real - c1.image*c2.image, c1.real*c2.image + c1.image*c2.real);
+}
+ 
+int rev(int id,int len)
+{
+    int ret=0;
+    for(int i=0;(1<<i)<len;i++)
+    {
+        ret<<=1;
+        if(id&(1<<i))
+			ret|=1;
+    }
+    return ret;
+}
+Complex* IterativeFFT(Complex* a,int len,int DFT)
+{
+    Complex* A=new Complex[len];
+    for(int i=0;i<len;i++)
+        A[rev(i,len)]=a[i];
+    for(int s=1;(1<<s)<=len;s++)
+    {
+        int m=(1<<s);
+        Complex wm=Complex(cos(DFT*2*PI/m),sin(DFT*2*PI/m));
+        for(int k=0;k<len;k+=m)
+        {
+            Complex w=Complex(1,0);
+            for(int j=0;j<(m>>1);j++)
+            {
+                Complex t=w*A[k+j+(m>>1)];
+                Complex u=A[k+j];
+                A[k+j]=u+t;
+                A[k+j+(m>>1)]=u-t;
+                w=w*wm;
+            }
+        }
+    }
+    if(DFT==-1)
+	for(int i=0;i<len;i++)
+	{
+		A[i].real/=len;
+		A[i].image/=len;
 	}
-	for(int k=2;k<=n;k<<=1)
-		for(int i=0;i<n;i+=k)
-			for(int j=0;j<(k>>1);j++){
-				Complex a=A[i+j],b=(tp>0?w:w_inv)[n/k*j]*A[i+j+(k>>1)];
-				A[i+j]=a+b;
-				A[i+j+(k>>1)]=a-b;
-			}
-	if(tp<0)for(int i=0;i<n;i++)A[i].a/=n;
+    return A;
+}
+char s[101010],t[101010];
+Complex a[202020],b[202020],c[202020];
+int pr[202020];
+int main()
+{
+	int len;
+	scanf("%d",&len);
+	scanf("%s",s);
+	scanf("%s",t);
+	for(int i=0;i<len;i++)
+		a[i]=Complex(s[len-i-1]-'0',0);
+	for(int i=0;i<len;i++)
+		b[i]=Complex(t[len-i-1]-'0',0);
+	int tmp=1;
+	while(tmp<=len)
+		tmp*=2;
+	len=tmp*2;
+	Complex* aa=IterativeFFT(a,len,1);
+	Complex* bb=IterativeFFT(b,len,1);
+	for(int i=0;i<len;i++)
+		c[i]=aa[i]*bb[i];
+	Complex* ans=IterativeFFT(c,len,-1);
+	for(int i=0;i<len;i++)
+		pr[i]=round(ans[i].real);
+	for(int i=0;i<=len;i++)
+	{
+		pr[i+1]+=pr[i]/10;
+		pr[i]%=10;
+	}
+	bool flag=0;
+	for(int i=len-1;i>=0;i--)
+	{
+		if(pr[i]>0)
+			flag=1;
+		if(flag)
+			printf("%d",pr[i]);
+	}
+	printf("\n");
+    return 0;
 }
