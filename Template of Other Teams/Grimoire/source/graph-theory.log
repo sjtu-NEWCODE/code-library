@@ -1,11 +1,11 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/Debian) (preloaded format=xelatex 2017.8.23)  17 OCT 2017 16:00
+This is XeTeX, Version 3.1415926-2.3-0.9997.5 (MiKTeX 2.9) (preloaded format=xelatex 2018.9.22)  22 SEP 2018 17:12
 entering extended mode
- \write18 enabled.
- %&-line parsing enabled.
 **graph-theory.tex
-(./graph-theory.tex
-LaTeX2e <2016/02/01>
-Babel <3.9q> and hyphenation patterns for 81 language(s) loaded.
+
+("D:\acm\板子\code-library\Template of Other Teams\Grimoire\source\graph-theo
+ry.tex"
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for loaded.
 ! Undefined control sequence.
 l.1 \chapter
             {图论}
@@ -88,7 +88,7 @@ Missing character: There is no p in font nullfont!
 Missing character: There is no p in font nullfont!
 ! Undefined control sequence.
 l.4 \section
-            {坚固无敌的点双}
+            {坚固无敌的点双 -zzq}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -102,9 +102,13 @@ Missing character: There is no 敌 in font nullfont!
 Missing character: There is no 的 in font nullfont!
 Missing character: There is no 点 in font nullfont!
 Missing character: There is no 双 in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no z in font nullfont!
+Missing character: There is no z in font nullfont!
+Missing character: There is no q in font nullfont!
 ! Undefined control sequence.
 l.5 \inputminted
-                {cpp}{\source/graph-theory/biconnected-graph-vertex -jzh.cpp}
+                {cpp}{\source/graph-theory/Biconnected-Point-Component -zzq....
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -116,6 +120,185 @@ Missing character: There is no p in font nullfont!
 Missing character: There is no p in font nullfont!
 ! Undefined control sequence.
 l.5 \inputminted{cpp}{\source
+                             /graph-theory/Biconnected-Point-Component -zzq....
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no / in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no B in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no P in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no C in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no z in font nullfont!
+Missing character: There is no z in font nullfont!
+Missing character: There is no q in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no p in font nullfont!
+! Undefined control sequence.
+l.6 \section
+            {坚固无敌的边双 -zzq}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no 坚 in font nullfont!
+Missing character: There is no 固 in font nullfont!
+Missing character: There is no 无 in font nullfont!
+Missing character: There is no 敌 in font nullfont!
+Missing character: There is no 的 in font nullfont!
+Missing character: There is no 边 in font nullfont!
+Missing character: There is no 双 in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no z in font nullfont!
+Missing character: There is no z in font nullfont!
+Missing character: There is no q in font nullfont!
+! Undefined control sequence.
+l.7 \inputminted
+                {cpp}{\source/graph-theory/Biconnected-Edge-Component -zzq.cpp}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no c in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no p in font nullfont!
+! Undefined control sequence.
+l.7 \inputminted{cpp}{\source
+                             /graph-theory/Biconnected-Edge-Component -zzq.cpp}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no / in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no B in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no E in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no C in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no z in font nullfont!
+Missing character: There is no z in font nullfont!
+Missing character: There is no q in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no p in font nullfont!
+! Undefined control sequence.
+l.8 \section
+            {坚固无敌的点双 -jzh}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no 坚 in font nullfont!
+Missing character: There is no 固 in font nullfont!
+Missing character: There is no 无 in font nullfont!
+Missing character: There is no 敌 in font nullfont!
+Missing character: There is no 的 in font nullfont!
+Missing character: There is no 点 in font nullfont!
+Missing character: There is no 双 in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no j in font nullfont!
+Missing character: There is no z in font nullfont!
+Missing character: There is no h in font nullfont!
+! Undefined control sequence.
+l.9 \inputminted
+                {cpp}{\source/graph-theory/biconnected-graph-vertex -jzh.cpp}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no c in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no p in font nullfont!
+! Undefined control sequence.
+l.9 \inputminted{cpp}{\source
                              /graph-theory/biconnected-graph-vertex -jzh.cpp}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -170,8 +353,8 @@ Missing character: There is no c in font nullfont!
 Missing character: There is no p in font nullfont!
 Missing character: There is no p in font nullfont!
 ! Undefined control sequence.
-l.6 \section
-            {坚固无敌的边双}
+l.10 \section
+             {坚固无敌的边双 -jzh}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -185,9 +368,13 @@ Missing character: There is no 敌 in font nullfont!
 Missing character: There is no 的 in font nullfont!
 Missing character: There is no 边 in font nullfont!
 Missing character: There is no 双 in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no j in font nullfont!
+Missing character: There is no z in font nullfont!
+Missing character: There is no h in font nullfont!
 ! Undefined control sequence.
-l.7 \inputminted
-                {cpp}{\source/graph-theory/biconnected-graph-edge -jzh.cpp}
+l.11 \inputminted
+                 {cpp}{\source/graph-theory/biconnected-graph-edge -jzh.cpp}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -198,8 +385,8 @@ Missing character: There is no c in font nullfont!
 Missing character: There is no p in font nullfont!
 Missing character: There is no p in font nullfont!
 ! Undefined control sequence.
-l.7 \inputminted{cpp}{\source
-                             /graph-theory/biconnected-graph-edge -jzh.cpp}
+l.11 \inputminted{cpp}{\source
+                              /graph-theory/biconnected-graph-edge -jzh.cpp}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -251,8 +438,79 @@ Missing character: There is no c in font nullfont!
 Missing character: There is no p in font nullfont!
 Missing character: There is no p in font nullfont!
 ! Undefined control sequence.
-l.8 \section
-            {闪电二分图匹配}
+l.12 \section
+             {2-sat}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+! Undefined control sequence.
+l.13 \inputminted
+                 {cpp}{\source/graph-theory/two-satisfiability.cpp}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no c in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no p in font nullfont!
+! Undefined control sequence.
+l.13 \inputminted{cpp}{\source
+                              /graph-theory/two-satisfiability.cpp}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no / in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no p in font nullfont!
+! Undefined control sequence.
+l.14 \section
+             {闪电二分图匹配}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -267,8 +525,8 @@ Missing character: There is no 图 in font nullfont!
 Missing character: There is no 匹 in font nullfont!
 Missing character: There is no 配 in font nullfont!
 ! Undefined control sequence.
-l.9 \inputminted
-                {cpp}{\source/graph-theory/Hopcroft-Karp.cpp}
+l.15 \inputminted
+                 {cpp}{\source/graph-theory/Hopcroft-Karp.cpp}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -279,8 +537,8 @@ Missing character: There is no c in font nullfont!
 Missing character: There is no p in font nullfont!
 Missing character: There is no p in font nullfont!
 ! Undefined control sequence.
-l.9 \inputminted{cpp}{\source
-                             /graph-theory/Hopcroft-Karp.cpp}
+l.15 \inputminted{cpp}{\source
+                              /graph-theory/Hopcroft-Karp.cpp}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -319,7 +577,7 @@ Missing character: There is no c in font nullfont!
 Missing character: There is no p in font nullfont!
 Missing character: There is no p in font nullfont!
 ! Undefined control sequence.
-l.10 \section
+l.16 \section
              {一般图匹配}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -333,7 +591,7 @@ Missing character: There is no 图 in font nullfont!
 Missing character: There is no 匹 in font nullfont!
 Missing character: There is no 配 in font nullfont!
 ! Undefined control sequence.
-l.11 \inputminted
+l.17 \inputminted
                  {cpp}{\source/graph-theory/general-matching.cpp}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -345,7 +603,7 @@ Missing character: There is no c in font nullfont!
 Missing character: There is no p in font nullfont!
 Missing character: There is no p in font nullfont!
 ! Undefined control sequence.
-l.11 \inputminted{cpp}{\source
+l.17 \inputminted{cpp}{\source
                               /graph-theory/general-matching.cpp}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -388,8 +646,8 @@ Missing character: There is no c in font nullfont!
 Missing character: There is no p in font nullfont!
 Missing character: There is no p in font nullfont!
 ! Undefined control sequence.
-l.12 \section
-             {一般最大权匹配}
+l.18 \section
+             {一般图最大权匹配}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -398,13 +656,14 @@ and I'll forget about whatever was undefined.
 
 Missing character: There is no 一 in font nullfont!
 Missing character: There is no 般 in font nullfont!
+Missing character: There is no 图 in font nullfont!
 Missing character: There is no 最 in font nullfont!
 Missing character: There is no 大 in font nullfont!
 Missing character: There is no 权 in font nullfont!
 Missing character: There is no 匹 in font nullfont!
 Missing character: There is no 配 in font nullfont!
 ! Undefined control sequence.
-l.13 \inputminted
+l.19 \inputminted
                  {cpp}{\source/graph-theory/weighted_blossom.cpp}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -416,7 +675,7 @@ Missing character: There is no c in font nullfont!
 Missing character: There is no p in font nullfont!
 Missing character: There is no p in font nullfont!
 ! Undefined control sequence.
-l.13 \inputminted{cpp}{\source
+l.19 \inputminted{cpp}{\source
                               /graph-theory/weighted_blossom.cpp}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -449,17 +708,17 @@ Missing character: There is no d in font nullfont!
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.13 ...minted{cpp}{\source/graph-theory/weighted_
+l.19 ...minted{cpp}{\source/graph-theory/weighted_
                                                   blossom.cpp}
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 13.
+(Font)              <7> on input line 19.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 13.
+(Font)              <5> on input line 19.
 ! Extra }, or forgotten $.
-l.13 ...\source/graph-theory/weighted_blossom.cpp}
+l.19 ...\source/graph-theory/weighted_blossom.cpp}
                                                   
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -468,89 +727,8 @@ the way to recover is to insert both the forgotten and the
 deleted material, e.g., by typing `I$}'.
 
 ! Undefined control sequence.
-l.14 \section
-             {无向图最小割}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.15 \inputminted
-                 {cpp}{\source/graph-theory/StoerWagner_O(V^3).cpp}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.15 \inputminted{cpp}{\source
-                              /graph-theory/StoerWagner_O(V^3).cpp}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.16 \section
-             {最大带权带花树}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.17 \inputminted
-                 {cpp}{\source/graph-theory/weighted_blossom.cpp}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.17 \inputminted{cpp}{\source
-                              /graph-theory/weighted_blossom.cpp}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.18 \section
-             {必经点Dominator-tree}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.19 \inputminted
-                 {cpp}{\source/graph-theory/dominator.cpp}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.19 \inputminted{cpp}{\source
-                              /graph-theory/dominator.cpp}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
 l.20 \section
-             {K短路}
+             {有根树hash}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -559,7 +737,7 @@ and I'll forget about whatever was undefined.
 
 ! Undefined control sequence.
 l.21 \inputminted
-                 {cpp}{\source/graph-theory/Kth-minimum-path.cpp}
+                 {cpp}{\source/graph-theory/rooted-tree-isomorphism.cpp}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -568,7 +746,7 @@ and I'll forget about whatever was undefined.
 
 ! Undefined control sequence.
 l.21 \inputminted{cpp}{\source
-                              /graph-theory/Kth-minimum-path.cpp}
+                              /graph-theory/rooted-tree-isomorphism.cpp}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -577,7 +755,7 @@ and I'll forget about whatever was undefined.
 
 ! Undefined control sequence.
 l.22 \section
-             {欧拉回路}
+             {无向图最小割}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -586,7 +764,7 @@ and I'll forget about whatever was undefined.
 
 ! Undefined control sequence.
 l.23 \inputminted
-                 {cpp}{\source/graph-theory/euler-tour.cpp}
+                 {cpp}{\source/graph-theory/StoerWagner_O(V^3).cpp}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -595,7 +773,7 @@ and I'll forget about whatever was undefined.
 
 ! Undefined control sequence.
 l.23 \inputminted{cpp}{\source
-                              /graph-theory/euler-tour.cpp}
+                              /graph-theory/StoerWagner_O(V^3).cpp}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -604,7 +782,7 @@ and I'll forget about whatever was undefined.
 
 ! Undefined control sequence.
 l.24 \section
-             {朱刘最小树形图}
+             {必经点Dominator-tree}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -613,7 +791,7 @@ and I'll forget about whatever was undefined.
 
 ! Undefined control sequence.
 l.25 \inputminted
-                 {cpp}{\source/graph-theory/minimum_arborescence.cpp}
+                 {cpp}{\source/graph-theory/dominator.cpp}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -622,6 +800,141 @@ and I'll forget about whatever was undefined.
 
 ! Undefined control sequence.
 l.25 \inputminted{cpp}{\source
+                              /graph-theory/dominator.cpp}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.26 \section
+             {K短路}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.27 \inputminted
+                 {cpp}{\source/graph-theory/Kth-minimum-path.cpp}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.27 \inputminted{cpp}{\source
+                              /graph-theory/Kth-minimum-path.cpp}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.28 \section
+             {最大团搜索}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.29 \inputminted
+                 {cpp}{\source/graph-theory/MaximumClique.cpp}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.29 \inputminted{cpp}{\source
+                              /graph-theory/MaximumClique.cpp}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.30 \section
+             {极大团计数}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.31 \inputminted
+                 {cpp}{\source/graph-theory/极大团计数.cpp}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.31 \inputminted{cpp}{\source
+                              /graph-theory/极大团计数.cpp}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.32 \section
+             {欧拉回路}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.33 \inputminted
+                 {cpp}{\source/graph-theory/euler-tour.cpp}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.33 \inputminted{cpp}{\source
+                              /graph-theory/euler-tour.cpp}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.34 \section
+             {朱刘最小树形图}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.35 \inputminted
+                 {cpp}{\source/graph-theory/minimum_arborescence.cpp}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.35 \inputminted{cpp}{\source
                               /graph-theory/minimum_arborescence.cpp}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -637,11 +950,11 @@ and I'll forget about whatever was undefined.
 
  
 Here is how much of TeX's memory you used:
- 6 strings out of 493638
- 90 string characters out of 6146796
- 54572 words of memory out of 5000000
- 3507 multiletter control sequences out of 15000+600000
- 3640 words of font info for 14 fonts, out of 8000000 for 9000
- 1328 hyphenation exceptions out of 8191
- 18i,2n,12p,95b,58s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 7 strings out of 430478
+ 163 string characters out of 3191502
+ 45928 words of memory out of 3000000
+ 3237 multiletter control sequences out of 15000+200000
+ 3640 words of font info for 14 fonts, out of 3000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 18i,2n,12p,95b,58s stack positions out of 5000i,500n,10000p,200000b,50000s
 No pages of output.
