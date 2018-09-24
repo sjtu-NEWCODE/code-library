@@ -10,14 +10,75 @@
 \usepackage{yfonts}
 
 \usepackage{titlesec}
+\setCJKmainfont[BoldFont={FandolSong-Bold}]{FandolSong-Regular}
+\setCJKmonofont{STXihei}
+
+\renewcommand{\theFancyVerbLine}{\sffamily \textcolor[rgb]{0.5,0.5,0.5}{\scriptsize {\arabic{FancyVerbLine}}}}
+\setminted[cpp]{
+	style=xcode,
+	mathescape,
+	linenos,
+	autogobble,
+	baselinestretch=1.0,
+	tabsize=4,
+	fontsize=\small,
+	%bgcolor=Gray,
+	frame=single,
+	framesep=1mm,
+	framerule=0.3pt,
+	numbersep=1mm,
+	breaklines=true,
+	breaksymbolsepleft=2pt,
+	%breaksymbolleft=\raisebox{0.8ex}{ \small\reflectbox{\carriagereturn}}, %not moe!
+	%breaksymbolright=\small\carriagereturn,
+	breakbytoken=false,
+}
+\setminted[java]{
+	style=xcode,
+	mathescape,
+	linenos,
+	autogobble,
+	baselinestretch=1.0,
+	tabsize=4,
+	%bgcolor=Gray,
+	frame=single,
+	framesep=1mm,
+	framerule=0.3pt,
+	numbersep=1mm,
+	breaklines=true,
+	breaksymbolsepleft=2pt,
+	%breaksymbolleft=\raisebox{0.8ex}{ \small\reflectbox{\carriagereturn}}, %not moe!
+	%breaksymbolright=\small\carriagereturn,
+	breakbytoken=false,
+}
+\setminted[text]{
+	style=xcode,
+	mathescape,
+	linenos,
+	autogobble,
+	baselinestretch=1.0,
+	tabsize=4,
+	fontsize=\small
+	%bgcolor=Gray,
+	frame=single,
+	framesep=1mm,
+	framerule=0.3pt,
+	numbersep=1mm,
+	breaklines=true,
+	breaksymbolsepleft=2pt,
+	%breaksymbolleft=\raisebox{0.8ex}{ \small\reflectbox{\carriagereturn}}, %not moe!
+	%breaksymbolright=\small\carriagereturn,
+	breakbytoken=false,
+}
+
+
 % Title
 \title{Template Library of NEW CODE!!\thanks{https://github.com/sjtu-NEWCODE/code-library}}
 \author{name}
 \date{Dated: \today}
 \begin{document}
 	\maketitle
-	%\input{./计算几何/computational-geometry.tex}
-	\twocolumn[]
-	asfq
-	
+	\tableofcontents
+	\input{./computational_geometry/computational_geometry.tex}
+	\input{./string/string.tex}
 \end{document} 
