@@ -1,40 +1,83 @@
-\contentsline {section}{\numberline {1}计算几何}{3}{section.1}
-\contentsline {subsection}{\numberline {1.1}二维基础}{3}{subsection.1.1}
-\contentsline {subsection}{\numberline {1.2}半平面交}{6}{subsection.1.2}
+\contentsline {section}{\numberline {1}计算几何}{4}{section.1}
+\contentsline {subsection}{\numberline {1.1}二维基础}{4}{subsection.1.1}
+\contentsline {subsection}{\numberline {1.2}半平面交}{7}{subsection.1.2}
 \contentsline {subsection}{\numberline {1.3}二维最小圆覆盖}{7}{subsection.1.3}
-\contentsline {subsection}{\numberline {1.4}凸包}{7}{subsection.1.4}
+\contentsline {subsection}{\numberline {1.4}凸包}{8}{subsection.1.4}
 \contentsline {subsection}{\numberline {1.5}凸包游戏}{8}{subsection.1.5}
 \contentsline {subsection}{\numberline {1.6}圆并}{10}{subsection.1.6}
-\contentsline {subsection}{\numberline {1.7}最远点对}{13}{subsection.1.7}
+\contentsline {subsection}{\numberline {1.7}最远点对}{12}{subsection.1.7}
 \contentsline {subsection}{\numberline {1.8}根轴}{13}{subsection.1.8}
-\contentsline {section}{\numberline {2}字符串}{15}{section.2}
-\contentsline {subsection}{\numberline {2.1}manacher}{15}{subsection.2.1}
-\contentsline {subsection}{\numberline {2.2}后缀数组}{15}{subsection.2.2}
-\contentsline {subsection}{\numberline {2.3}后缀自动机}{15}{subsection.2.3}
-\contentsline {subsection}{\numberline {2.4}广义后缀自动机}{16}{subsection.2.4}
-\contentsline {subsection}{\numberline {2.5}回文自动机}{17}{subsection.2.5}
-\contentsline {subsection}{\numberline {2.6}Lyndon Word Decomposition NewMeta}{18}{subsection.2.6}
-\contentsline {subsection}{\numberline {2.7}EXKMP NewMeta}{18}{subsection.2.7}
-\contentsline {section}{\numberline {3}数据结构}{18}{section.3}
-\contentsline {subsection}{\numberline {3.1}Link-Cut-Tree}{18}{subsection.3.1}
-\contentsline {subsection}{\numberline {3.2}KDTree}{19}{subsection.3.2}
-\contentsline {subsection}{\numberline {3.3}莫队上树}{21}{subsection.3.3}
-\contentsline {section}{\numberline {4}图论}{21}{section.4}
-\contentsline {subsection}{\numberline {4.1}点双连通分量}{21}{subsection.4.1}
-\contentsline {subsection}{\numberline {4.2}边双连通分量}{22}{subsection.4.2}
-\contentsline {subsection}{\numberline {4.3}图同构 hash}{23}{subsection.4.3}
-\contentsline {subsection}{\numberline {4.4}有根树同构-Reshiram}{23}{subsection.4.4}
-\contentsline {subsection}{\numberline {4.5}Hopcraft-Karp}{24}{subsection.4.5}
-\contentsline {subsection}{\numberline {4.6}ISAP}{24}{subsection.4.6}
-\contentsline {subsection}{\numberline {4.7}zkw费用流}{25}{subsection.4.7}
-\contentsline {subsection}{\numberline {4.8}无向图全局最小割}{25}{subsection.4.8}
-\contentsline {subsection}{\numberline {4.9}KM}{26}{subsection.4.9}
-\contentsline {subsection}{\numberline {4.10}一般图最大权匹配}{27}{subsection.4.10}
-\contentsline {subsection}{\numberline {4.11}曼哈顿最小生成树}{30}{subsection.4.11}
-\contentsline {subsection}{\numberline {4.12}哈密顿回路}{31}{subsection.4.12}
-\contentsline {subsection}{\numberline {4.13}最大团搜索}{31}{subsection.4.13}
-\contentsline {subsection}{\numberline {4.14}极大团计数}{32}{subsection.4.14}
-\contentsline {subsection}{\numberline {4.15}虚树-NewMeta}{32}{subsection.4.15}
-\contentsline {subsection}{\numberline {4.16}2-Sat}{33}{subsection.4.16}
-\contentsline {subsection}{\numberline {4.17}弦图}{33}{subsection.4.17}
-\contentsline {subsection}{\numberline {4.18}支配树}{33}{subsection.4.18}
+\contentsline {section}{\numberline {2}字符串}{14}{section.2}
+\contentsline {subsection}{\numberline {2.1}manacher}{14}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}后缀数组}{14}{subsection.2.2}
+\contentsline {subsection}{\numberline {2.3}后缀自动机}{14}{subsection.2.3}
+\contentsline {subsection}{\numberline {2.4}广义后缀自动机}{15}{subsection.2.4}
+\contentsline {subsection}{\numberline {2.5}回文自动机}{16}{subsection.2.5}
+\contentsline {subsection}{\numberline {2.6}Lyndon Word Decomposition NewMeta}{16}{subsection.2.6}
+\contentsline {subsection}{\numberline {2.7}EXKMP NewMeta}{16}{subsection.2.7}
+\contentsline {section}{\numberline {3}数据结构}{17}{section.3}
+\contentsline {subsection}{\numberline {3.1}Link-Cut-Tree}{17}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}KDTree}{17}{subsection.3.2}
+\contentsline {subsection}{\numberline {3.3}莫队上树}{19}{subsection.3.3}
+\contentsline {section}{\numberline {4}图论}{19}{section.4}
+\contentsline {subsection}{\numberline {4.1}点双连通分量}{19}{subsection.4.1}
+\contentsline {subsection}{\numberline {4.2}边双连通分量}{20}{subsection.4.2}
+\contentsline {subsection}{\numberline {4.3}有根树同构-Reshiram}{20}{subsection.4.3}
+\contentsline {subsection}{\numberline {4.4}Hopcraft-Karp}{21}{subsection.4.4}
+\contentsline {subsection}{\numberline {4.5}ISAP}{21}{subsection.4.5}
+\contentsline {subsection}{\numberline {4.6}zkw费用流}{22}{subsection.4.6}
+\contentsline {subsection}{\numberline {4.7}无向图全局最小割}{22}{subsection.4.7}
+\contentsline {subsection}{\numberline {4.8}KM}{23}{subsection.4.8}
+\contentsline {subsection}{\numberline {4.9}一般图最大权匹配}{23}{subsection.4.9}
+\contentsline {subsection}{\numberline {4.10}最大团搜索}{26}{subsection.4.10}
+\contentsline {subsection}{\numberline {4.11}极大团计数}{26}{subsection.4.11}
+\contentsline {subsection}{\numberline {4.12}虚树-NewMeta}{27}{subsection.4.12}
+\contentsline {subsection}{\numberline {4.13}2-Sat}{27}{subsection.4.13}
+\contentsline {subsection}{\numberline {4.14}支配树}{27}{subsection.4.14}
+\contentsline {subsection}{\numberline {4.15}哈密顿回路}{28}{subsection.4.15}
+\contentsline {subsection}{\numberline {4.16}曼哈顿最小生成树}{29}{subsection.4.16}
+\contentsline {subsection}{\numberline {4.17}弦图}{30}{subsection.4.17}
+\contentsline {subsection}{\numberline {4.18}图同构 hash}{30}{subsection.4.18}
+\contentsline {section}{\numberline {5}字符串}{30}{section.5}
+\contentsline {subsection}{\numberline {5.1}manacher}{30}{subsection.5.1}
+\contentsline {subsection}{\numberline {5.2}后缀数组}{31}{subsection.5.2}
+\contentsline {subsection}{\numberline {5.3}后缀自动机}{31}{subsection.5.3}
+\contentsline {subsection}{\numberline {5.4}广义后缀自动机}{32}{subsection.5.4}
+\contentsline {subsection}{\numberline {5.5}回文自动机}{32}{subsection.5.5}
+\contentsline {subsection}{\numberline {5.6}Lyndon Word Decomposition NewMeta}{33}{subsection.5.6}
+\contentsline {subsection}{\numberline {5.7}EXKMP NewMeta}{33}{subsection.5.7}
+\contentsline {section}{\numberline {6}杂项}{33}{section.6}
+\contentsline {subsection}{\numberline {6.1}fread 读入优化}{33}{subsection.6.1}
+\contentsline {subsection}{\numberline {6.2}真正释放STL内存}{34}{subsection.6.2}
+\contentsline {subsection}{\numberline {6.3}梅森旋转算法}{34}{subsection.6.3}
+\contentsline {subsection}{\numberline {6.4}蔡勒公式}{34}{subsection.6.4}
+\contentsline {subsection}{\numberline {6.5}开栈}{34}{subsection.6.5}
+\contentsline {subsection}{\numberline {6.6}Size为ｋ的子集}{34}{subsection.6.6}
+\contentsline {subsection}{\numberline {6.7}长方体表面两点最短距离}{34}{subsection.6.7}
+\contentsline {subsection}{\numberline {6.8}32-bit/64-bit随机素数}{34}{subsection.6.8}
+\contentsline {subsection}{\numberline {6.9}NTT 素数及其原根}{34}{subsection.6.9}
+\contentsline {subsection}{\numberline {6.10}伯努利数-Reshiram}{34}{subsection.6.10}
+\contentsline {subsection}{\numberline {6.11}博弈游戏-Reshiram}{35}{subsection.6.11}
+\contentsline {subsubsection}{\numberline {6.11.1}巴什博奕}{35}{subsubsection.6.11.1}
+\contentsline {subsubsection}{\numberline {6.11.2}威佐夫博弈}{35}{subsubsection.6.11.2}
+\contentsline {subsubsection}{\numberline {6.11.3}阶梯博奕}{35}{subsubsection.6.11.3}
+\contentsline {subsubsection}{\numberline {6.11.4}图上删边游戏}{35}{subsubsection.6.11.4}
+\contentsline {subsubsection}{\numberline {6.11.5}链的删边游戏}{35}{subsubsection.6.11.5}
+\contentsline {subsubsection}{\numberline {6.11.6}树的删边游戏}{35}{subsubsection.6.11.6}
+\contentsline {subsubsection}{\numberline {6.11.7}局部连通图的删边游戏}{35}{subsubsection.6.11.7}
+\contentsline {subsection}{\numberline {6.12}Formulas}{35}{subsection.6.12}
+\contentsline {subsection}{\numberline {6.13}Arithmetic Function}{35}{subsection.6.13}
+\contentsline {subsection}{\numberline {6.14}Binomial Coefficients}{36}{subsection.6.14}
+\contentsline {subsection}{\numberline {6.15}Fibonacci Numbers}{36}{subsection.6.15}
+\contentsline {subsection}{\numberline {6.16}Stirling Cycle Numbers}{36}{subsection.6.16}
+\contentsline {subsection}{\numberline {6.17}Stirling Subset Numbers}{36}{subsection.6.17}
+\contentsline {subsection}{\numberline {6.18}Eulerian Numbers}{36}{subsection.6.18}
+\contentsline {subsection}{\numberline {6.19}Harmonic Numbers}{36}{subsection.6.19}
+\contentsline {subsection}{\numberline {6.20}Pentagonal Number Theorem}{36}{subsection.6.20}
+\contentsline {subsection}{\numberline {6.21}Bell Numbers}{36}{subsection.6.21}
+\contentsline {subsection}{\numberline {6.22}Bernoulli Numbers}{36}{subsection.6.22}
+\contentsline {subsection}{\numberline {6.23}Tetrahedron Volume}{37}{subsection.6.23}
+\contentsline {subsection}{\numberline {6.24}BEST Thoerem}{37}{subsection.6.24}
+\contentsline {subsection}{\numberline {6.25}重心}{37}{subsection.6.25}
+\contentsline {subsection}{\numberline {6.26}Others}{37}{subsection.6.26}
+\contentsline {subsection}{\numberline {6.27}Java}{37}{subsection.6.27}

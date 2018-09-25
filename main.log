@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018/W32TeX) (preloaded format=xelatex 2018.9.23)  25 SEP 2018 16:51
+This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018/W32TeX) (preloaded format=xelatex 2018.9.23)  25 SEP 2018 17:25
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -1164,31 +1164,31 @@ runsystem(del main.aex)...executed.
  (./main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 20.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 20.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 27.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 27.
 
 (c:/texlive/2018/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
 .................................................
 . fontspec info: "setup-math"
 . 
@@ -1196,59 +1196,59 @@ LaTeX Font Info:    ... okay on input line 20.
 .................................................
 \symlegacymaths=\mathgroup4
 LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
-(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 20.
-LaTeX Font Info:    Redeclaring math accent \acute on input line 20.
-LaTeX Font Info:    Redeclaring math accent \grave on input line 20.
-LaTeX Font Info:    Redeclaring math accent \ddot on input line 20.
-LaTeX Font Info:    Redeclaring math accent \tilde on input line 20.
-LaTeX Font Info:    Redeclaring math accent \bar on input line 20.
-LaTeX Font Info:    Redeclaring math accent \breve on input line 20.
-LaTeX Font Info:    Redeclaring math accent \check on input line 20.
-LaTeX Font Info:    Redeclaring math accent \hat on input line 20.
-LaTeX Font Info:    Redeclaring math accent \dot on input line 20.
-LaTeX Font Info:    Redeclaring math accent \mathring on input line 20.
-LaTeX Font Info:    Redeclaring math symbol \colon on input line 20.
-LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 20.
-LaTeX Font Info:    Redeclaring math symbol \Delta on input line 20.
-LaTeX Font Info:    Redeclaring math symbol \Theta on input line 20.
-LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 20.
-LaTeX Font Info:    Redeclaring math symbol \Xi on input line 20.
-LaTeX Font Info:    Redeclaring math symbol \Pi on input line 20.
-LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 20.
-LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 20.
-LaTeX Font Info:    Redeclaring math symbol \Phi on input line 20.
-LaTeX Font Info:    Redeclaring math symbol \Psi on input line 20.
-LaTeX Font Info:    Redeclaring math symbol \Omega on input line 20.
-LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 20.
-LaTeX Font Info:    Redeclaring symbol font `operators' on input line 20.
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 27.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 27.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 27.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 27.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 27.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 27.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 27.
+LaTeX Font Info:    Redeclaring math accent \check on input line 27.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 27.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 27.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 27.
+LaTeX Font Info:    Redeclaring math symbol \colon on input line 27.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 27.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 27.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 27.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 27.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 27.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 27.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 27.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 27.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 27.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 27.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 27.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 27.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 27.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `normal' on input line 20.
+(Font)              `operators' in the math version `normal' on input line 27.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> TU/lmr/m/n on input line 20.
+(Font)                  OT1/cmr/m/n --> TU/lmr/m/n on input line 27.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `bold' on input line 20.
+(Font)              `operators' in the math version `bold' on input line 27.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> TU/lmr/m/n on input line 20.
+(Font)                  OT1/cmr/bx/n --> TU/lmr/m/n on input line 27.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  TU/lmr/m/n --> TU/lmr/m/n on input line 20.
+(Font)                  TU/lmr/m/n --> TU/lmr/m/n on input line 27.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> TU/lmr/m/it on input line 20.
+(Font)                  OT1/cmr/m/it --> TU/lmr/m/it on input line 27.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> TU/lmr/bx/n on input line 20.
+(Font)                  OT1/cmr/bx/n --> TU/lmr/bx/n on input line 27.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 20.
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 27.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 20.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 27.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  TU/lmr/m/n --> TU/lmr/bx/n on input line 20.
+(Font)                  TU/lmr/m/n --> TU/lmr/bx/n on input line 27.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> TU/lmr/bx/it on input line 20.
+(Font)                  OT1/cmr/bx/it --> TU/lmr/bx/it on input line 27.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> TU/lmss/bx/n on input line 20.
+(Font)                  OT1/cmss/bx/n --> TU/lmss/bx/n on input line 27.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/bx/n on input line 20.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/bx/n on input line 27.
 \AtBeginShipoutBox=\box52
-Package hyperref Info: Link coloring ON on input line 20.
+Package hyperref Info: Link coloring ON on input line 27.
 
 (c:/texlive/2018/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
@@ -1258,9 +1258,9 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count305
 )
-LaTeX Info: Redefining \ref on input line 20.
-LaTeX Info: Redefining \pageref on input line 20.
-LaTeX Info: Redefining \nameref on input line 20.
+LaTeX Info: Redefining \ref on input line 27.
+LaTeX Info: Redefining \pageref on input line 27.
+LaTeX Info: Redefining \nameref on input line 27.
 
 (./main.out) (./main.out)
 \@outlinefile=\write6
@@ -1302,11 +1302,11 @@ LaTeX Info: Redefining \nameref on input line 20.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 22.
+(Font)              <12> on input line 29.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 22.
+(Font)              <8> on input line 29.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 22.
+(Font)              <6> on input line 29.
 (c:/texlive/2018/texmf-dist/tex/generic/oberdiek/se-ascii-print.def
 File: se-ascii-print.def 2016/05/16 v1.11 stringenc: Printable ASCII characters
 
@@ -1316,11 +1316,11 @@ File: se-ascii-print.def 2016/05/16 v1.11 stringenc: Printable ASCII characters
 (./main.toc
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <10.95> on input line 2.
-)
+ [2])
 \tf@toc=\write7
 \openout7 = `main.toc'.
 
- [2] (./computational_geometry/computational_geometry.tex
+ [3] (./computational_geometry/computational_geometry.tex
 (./_minted-main/default-pyg-prefix.pygstyle) (./_minted-main/default.pygstyle)
 (./_minted-main/3DEDB7134A32D96F551050B160124A660A35A5A5921728FBE4E665AD9521B37
 A.pygtex
@@ -1338,17 +1338,17 @@ A.pygtex
 DFLT;mapping=tex-text;"
 . - 'small caps'  (m/sc) with NFSS spec.: 
 .................................................
-LaTeX Font Info:    Font shape `TU/lmtt/bx/n' in size <10.95> not available
+LaTeX Font Info:    Font shape `TU/lmtt/bx/n' in size <10> not available
 (Font)              Font shape `TU/lmtt/b/n' tried instead on input line 2.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 25.
- [3] [4] [5])
+ [4] [5] [6])
 (./_minted-main/9D75691FAC0ADD862E1DC87A8E2940B5BF03038DF349E14DF59BDA250AB58FA
-3.pygtex [6])
+3.pygtex)
 (./_minted-main/77132A2ADC182C19F4602795BA85B10D5B876A5CB37638BCC11D1353010316B
-1.pygtex)
-(./_minted-main/52FF962E66788AE381845207BD4ACC94EABD018C72A90B0F0B59D6A0D9CD10C
 1.pygtex [7])
+(./_minted-main/52FF962E66788AE381845207BD4ACC94EABD018C72A90B0F0B59D6A0D9CD10C
+1.pygtex)
 (./_minted-main/2A96DF8EBDD5C87CDA3E8F4D9AF25978F167BB1835A8DC18B158170072380D5
 5.pygtex
 
@@ -1359,159 +1359,69 @@ nput line 3.
 
 [8] [9])
 (./_minted-main/5581B3161F8C086D7836EDF04B8E99FC853F02C224497513F18666C4982DFB6
-4.pygtex [10] [11] [12])
+4.pygtex [10] [11])
 (./_minted-main/E1FD0B86EF107D46657296E39B4459E82BD63C36A2097C7DF2867A997B0E25D
-4.pygtex) (./computational_geometry/radical_axis.tex [13])) [14]
+4.pygtex [12]) (./computational_geometry/radical_axis.tex)) [13]
 (./string/string.tex
 (./_minted-main/32D22237F14DAE403ED391FF306FE58C749AB3FF4CE2A873746E0CFBDFAADAD
 1.pygtex
-Overfull \hbox (65.10637pt too wide) in paragraph at lines 21--21
-| | | |[][][]\TU/lmtt/m/n/10.95 cher[i][]=[]min(cher[[]2[][]*[]id[]-[]i],mx[]-[
-]i);|  
- []
-
-
-Overfull \hbox (88.10136pt too wide) in paragraph at lines 24--24
-| | | |[][][]\TU/lmtt/b/n/10.95 while[]\TU/lmtt/m/n/10.95 (Mana[i[]+[]cher[i][]
-+[][]1[]][]==[]Mana[i[]-[]cher[i][]-[][]1[]])|  
+Overfull \hbox (16.67519pt too wide) in paragraph at lines 24--24
+| | | |[][][][][][][][][][][][][][][][][][][][][][][][][][][]|  
  []
 
 )
 (./_minted-main/2A91EA089145A4A2FC9A9CC74F00B660B5103545AB8FF0C9BC1642C59B00140
 6.pygtex
-Overfull \hbox (145.58885pt too wide) in paragraph at lines 4--4
-\TU/lmtt/m/n/10.95 a[maxn],x[maxn],y[maxn],c[maxn],sa[maxn],rank[maxn],height[m
-axn];|  
+Overfull \hbox (111.17519pt too wide) in paragraph at lines 4--4
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][]|  
  []
 
 
-Overfull \hbox (24.86513pt too wide) in paragraph at lines 13--13
-\TU/lmtt/m/n/10.95 i[]=[]n[]-[]k[]+[][]1[];i[]<=[]n;i[]++[])y[i[]-[]n[]+[]k][]=
-[]i;|  
+Overfull \hbox (200.42519pt too wide) in paragraph at lines 23--23
+| | | |[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
+[][][][][][][][][][][][][][][][][][][][][][][]|  
  []
 
 
-Overfull \hbox (47.86012pt too wide) in paragraph at lines 15--15
-| | | |[][][][]\TU/lmtt/b/n/10.95 if[]\TU/lmtt/m/n/10.95 (sa[i][]>[]k)y[[]++[]t
-ot][]=[]sa[i][]-[]k;|  
+Overfull \hbox (16.67519pt too wide) in paragraph at lines 33--33
+| | | |[][][][][][][][][][][][][][][][][][][][][][][][]|  
  []
 
 
-Overfull \hbox (7.61888pt too wide) in paragraph at lines 16--16
-| | | |[][]\TU/lmtt/m/n/10.95 memset(c,[]0[],[]\TU/lmtt/b/n/10.95 sizeof[]\TU/l
-mtt/m/n/10.95 ([]*[]c)[]*[](m[]+[][]1[]));|  
- []
-
-
-Overfull \hbox (13.36763pt too wide) in paragraph at lines 18--18
-\TU/lmtt/m/n/10.95 i[]=[][]1[];i[]<=[]m;i[]++[])c[i][]+=[]c[i[]-[][]1[]];|  
- []
-
-
-Overfull \hbox (65.10637pt too wide) in paragraph at lines 19--19
-\TU/lmtt/m/n/10.95 i[]=[]n;i[]>=[][]1[];i[]--[])sa[c[x[y[i]]][]--[]][]=[]y[i];|
-  
- []
-
-
-Overfull \hbox (312.30257pt too wide) in paragraph at lines 23--23
-| | | |[][][][]\TU/lmtt/b/n/10.95 if[]\TU/lmtt/m/n/10.95 (max(sa[i],sa[i[]-[][]
-1[]])[]+[]k[]>[]n[]||[]y[sa[i]][]!=[]y[sa[i[]-[][]1[]]][]||[]y[sa[i][]+[]k][]!=
-[]y[sa[i[]-[][]1[]][]+[]k])|  
- []
-
-
-Overfull \hbox (88.10136pt too wide) in paragraph at lines 33--33
-| | | |[][]\TU/lmtt/m/n/10.95 height[rank[i]][]=[]max([]0[],height[rank[i[]-[][
-]1[]]][]-[][]1[]);|  
- []
-
-
-Overfull \hbox (289.30757pt too wide) in paragraph at lines 36--36
-| | | |[][][]\TU/lmtt/b/n/10.95 while[]\TU/lmtt/m/n/10.95 (max(i,j)[]+[]height[
-rank[i]][]<=[]n[]&&[]a[i[]+[]height[rank[i]]][]==[]a[j[]+[]height[rank[i]]])|  
-
+Overfull \hbox (200.42519pt too wide) in paragraph at lines 36--36
+| | | |[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
+[][][][][]|  
  []
 
 )
 (./_minted-main/2D5017122A7CEDC2F9FD069E15D7EE6606017D6CBD0508F80BC7BCF63F3AFD4
 8.pygtex
-Overfull \hbox (260.56383pt too wide) in paragraph at lines 7--7
-\TU/lmtt/m/n/10.95 son[MaxPoint][[]27[]],pre[MaxPoint],step[MaxPoint],right[Max
-Point],last,root,num;|  
+Overfull \hbox (195.17519pt too wide) in paragraph at lines 7--7
+[][][][][][][][][][][][][][][][][][][][][][][][]|  
  []
 
-
-Overfull \hbox (47.86012pt too wide) in paragraph at lines 11--11
-| | | |[][]\TU/lmtt/m/n/10.95 memset(son[num],[]0[],[]\TU/lmtt/b/n/10.95 sizeof
-[]\TU/lmtt/m/n/10.95 (son[num]));|  
- []
-
-[15
+[14
 
 ]
-Overfull \hbox (7.61888pt too wide) in paragraph at lines 23--23
-\TU/lmtt/m/n/10.95 np[]=[]NewNode(step[last][]+[][]1[]);|  
+Overfull \hbox (32.42519pt too wide) in paragraph at lines 42--42
+| | | |[][][][][][][][][][][][][][][][][][][][]|  
  []
 
 
-Overfull \hbox (13.36763pt too wide) in paragraph at lines 37--37
-| | | |[][][][]\TU/lmtt/b/n/10.95 if[]\TU/lmtt/m/n/10.95 (step[q][]==[]step[p][
-]+[][]1[])|  
- []
-
-
-Overfull \hbox (82.35262pt too wide) in paragraph at lines 41--41
-\TU/lmtt/m/n/10.95 nq[]=[]NewNode(step[p][]+[][]1[]);|  
- []
-
-
-Overfull \hbox (151.3376pt too wide) in paragraph at lines 42--42
-| | | |[][][][]\TU/lmtt/m/n/10.95 memcpy(son[nq],son[q],[]\TU/lmtt/b/n/10.95 si
-zeof[]\TU/lmtt/m/n/10.95 (son[q]));|  
- []
-
-
-Overfull \hbox (42.11137pt too wide) in paragraph at lines 43--43
-| | | |[][][][]\TU/lmtt/m/n/10.95 step[nq][]=[]step[p][]+[][]1[];|  
- []
-
-
-Overfull \hbox (19.11638pt too wide) in paragraph at lines 44--44
-| | | |[][][][]\TU/lmtt/m/n/10.95 pre[nq][]=[]pre[q];|  
- []
-
-
-Overfull \hbox (36.36263pt too wide) in paragraph at lines 45--45
-| | | |[][][][]\TU/lmtt/m/n/10.95 pre[q][]=[]pre[np][]=[]nq;|  
- []
-
-
-Overfull \hbox (65.10637pt too wide) in paragraph at lines 46--46
-| | | |[][][][][]\TU/lmtt/b/n/10.95 while[]\TU/lmtt/m/n/10.95 (p[]&&[]son[p][ch
-][]==[]q)|  
- []
-
-
-Overfull \hbox (59.35762pt too wide) in paragraph at lines 48--48
-| | | |[][][][][]\TU/lmtt/m/n/10.95 son[p][ch][]=[]nq;|  
- []
-
-
-Overfull \hbox (30.61388pt too wide) in paragraph at lines 49--49
-| | | |[][][][][]\TU/lmtt/m/n/10.95 p[]=[]pre[p];|  
- []
-
-
-Overfull \hbox (70.8551pt too wide) in paragraph at lines 69--69
-| | | |[][][]\TU/lmtt/m/it/10.95 S.right[S.pre[arr[i]]]+=S.right[arr[i]];[]|  
+Overfull \hbox (0.92519pt too wide) in paragraph at lines 69--69
+| | | |[]|  
  []
 
 )
 (./_minted-main/3985343C489A076334724ECF528CF82F2CE401CD57445B48C9DDC6B694CE144
-3.pygtex [16])
+3.pygtex [15])
 (./_minted-main/9734C8DB896ECA9B8D39E8FE919C5C8D4BE808CD18EA4A29F2473C5D42BA25E
-7.pygtex [17])
+7.pygtex
+Overfull \hbox (11.67519pt too wide) in paragraph at lines 7--7
+[][][]|  
+ []
+
+)
 Overfull \hbox (9.02519pt too wide) in paragraph at lines 13--13
 []\TU/lmr/bx/n/12 Lyndon Word Decomposition NewMeta 
  []
@@ -1519,387 +1429,111 @@ Overfull \hbox (9.02519pt too wide) in paragraph at lines 13--13
 
 (./_minted-main/04880D5D85E203D6F74F453A9A37D3A42AA6F30CFE526F5DC97AC1A10D0D01A
 5.pygtex
-Overfull \hbox (1.86993pt too wide) in paragraph at lines 14--14
-\TU/lmtt/m/n/10.95 ss.push_back(s.substr(i, 
+Overfull \hbox (8.70518pt too wide) in paragraph at lines 2--2
+| | | |[]|  
+ []
+
+
+Overfull \hbox (120.42519pt too wide) in paragraph at lines 4--4
+| | | |[]|  
+ []
+
+
+Overfull \hbox (150.42519pt too wide) in paragraph at lines 5--5
+| | | |[]|  
  []
 
 )
 (./_minted-main/3A536E620BD9759E7559054BB7F4C38F05EBD9273542073E9AC71B9BE3FB9E2
-0.pygtex)) (./data-structure/data-structure.tex
+0.pygtex
+Overfull \hbox (155.17519pt too wide) in paragraph at lines 2--2
+| | | |[]|  
+ []
+
+[16])) (./data-structure/data-structure.tex
 (./_minted-main/958DE9A0D739B3CC1C83FEF8B5EF2C805544D23378D87EC4E9A12312E95BE9E
-9.pygtex
-Overfull \hbox (24.86493pt too wide) in paragraph at lines 15--15
-| | | |[][][][]\TU/lmtt/m/n/10.95 std[]::[]swap(ch[[]0[]], 
- []
-
-
-Overfull \hbox (53.60887pt too wide) in paragraph at lines 16--16
-\TU/lmtt/m/n/10.95 ch[i][]->[]reverse();|  
- []
-
-[18]
-Overfull \hbox (19.11618pt too wide) in paragraph at lines 59--59
-\TU/lmtt/m/n/10.95 (p[]->[]which() 
- []
-
-
-Overfull \hbox (19.11618pt too wide) in paragraph at lines 59--59
-\TU/lmtt/m/n/10.95 k[]->[]which()) 
- []
-
-
-Overfull \hbox (13.36763pt too wide) in paragraph at lines 59--59
-\TU/lmtt/m/n/10.95 rotate(k);|  
- []
-
-
-Overfull \hbox (13.36763pt too wide) in paragraph at lines 60--60
-\TU/lmtt/m/n/10.95 rotate(p);|  
- []
-
-)
+9.pygtex)
 (./_minted-main/25C6A0731C7BF51995936CF4086F26C82533FD4D4E1B6486A78E42BA73696E9
-B.pygtex [19] [20])
-(./_minted-main/B8D77A0D3E904232F3E2AAA943D23642BF4B7C1CD502C40D691FFF4D8810389
-8.pygtex)) (./graph-theory/graph-theory.tex
-runsystem(pygmentize -l cpp -f latex -P commandprefix=PYG -F tokenmerge -o _min
-ted-main/4BC7265E6F5199CA1F6398A64D6E48D492CA9239FAB350FE214B0DEF7E62F328.pygte
-x ./graph-theory/vertex-biconnected-component.cpp)...executed.
-
-
+B.pygtex [17] [18])
+(./_minted-main/B8D77A0D3E904232F3E2AAA943D236425FF8D33985BC038582E1FFFC176A779
+B.pygtex)) (./graph-theory/graph-theory.tex
 (./_minted-main/4BC7265E6F5199CA1F6398A64D6E48D492CA9239FAB350FE214B0DEF7E62F32
-8.pygtex [21]
-Overfull \hbox (13.36743pt too wide) in paragraph at lines 28--28
-\TU/lmtt/m/n/10.95 std[]::[]min(low[now], 
+8.pygtex
+Overfull \hbox (37.81519pt too wide) in paragraph at lines 19--19
+| | | |[]|  
  []
 
 
-Overfull \hbox (65.10637pt too wide) in paragraph at lines 31--31
-| | | |[][][][]\TU/lmtt/m/n/10.95 bcc[[]++[]bcc_cnt].clear();|  
+Overfull \hbox (53.42519pt too wide) in paragraph at lines 35--35
+| | | |[][][][][][][][][][][][][][][][]|  
  []
 
 
-Overfull \hbox (19.11618pt too wide) in paragraph at lines 33--33
-\TU/lmtt/m/n/10.95 tmp 
+Overfull \hbox (58.67519pt too wide) in paragraph at lines 39--39
+| | | |[][][][][][][][][][][][][][][][]|  
  []
 
-
-Overfull \hbox (7.61888pt too wide) in paragraph at lines 33--33
-[]\TU/lmtt/m/n/10.95 =[] 
- []
-
-
-Overfull \hbox (88.10136pt too wide) in paragraph at lines 33--33
-\TU/lmtt/m/n/10.95 stk[stk_top[]--[]];|  
- []
-
-
-Overfull \hbox (105.34741pt too wide) in paragraph at lines 34--34
-\TU/lmtt/m/n/10.95 (bcc_id[tmp.first] 
- []
-
-
-Overfull \hbox (13.36763pt too wide) in paragraph at lines 34--34
-[]\TU/lmtt/m/n/10.95 !=[] 
- []
-
-
-Overfull \hbox (47.85992pt too wide) in paragraph at lines 34--34
-\TU/lmtt/m/n/10.95 bcc_cnt) 
- []
-
-
-Overfull \hbox (7.61888pt too wide) in paragraph at lines 34--34
-\TU/lmtt/m/n/10.95 {|  
- []
-
-
-Overfull \hbox (220.32259pt too wide) in paragraph at lines 35--35
-| | | |[][][][][][]\TU/lmtt/m/n/10.95 bcc[bcc_cnt].push_back(tmp.first);|  
- []
-
-
-Overfull \hbox (47.86012pt too wide) detected at line 35
-[]
- []
-
-
-Overfull \hbox (122.59366pt too wide) in paragraph at lines 36--36
-| | | |[][][][][][]\TU/lmtt/m/n/10.95 bcc_id[tmp.first] 
- []
-
-
-Overfull \hbox (53.60887pt too wide) in paragraph at lines 36--36
-[]\TU/lmtt/m/n/10.95 =[] 
- []
-
-
-Overfull \hbox (93.85011pt too wide) in paragraph at lines 36--36
-\TU/lmtt/m/n/10.95 bcc_cnt;|  
- []
-
-
-Overfull \hbox (47.86012pt too wide) detected at line 36
-[]
- []
-
-
-Overfull \hbox (111.09616pt too wide) in paragraph at lines 38--38
-\TU/lmtt/m/n/10.95 (bcc_id[tmp.second] 
- []
-
-
-Overfull \hbox (13.36763pt too wide) in paragraph at lines 38--38
-[]\TU/lmtt/m/n/10.95 !=[] 
- []
-
-
-Overfull \hbox (47.85992pt too wide) in paragraph at lines 38--38
-\TU/lmtt/m/n/10.95 bcc_cnt) 
- []
-
-
-Overfull \hbox (7.61888pt too wide) in paragraph at lines 38--38
-\TU/lmtt/m/n/10.95 {|  
- []
-
-
-Overfull \hbox (226.07133pt too wide) in paragraph at lines 39--39
-| | | |[][][][][][]\TU/lmtt/m/n/10.95 bcc[bcc_cnt].push_back(tmp.second);|  
- []
-
-
-Overfull \hbox (47.86012pt too wide) detected at line 39
-[]
- []
-
-
-Overfull \hbox (128.3424pt too wide) in paragraph at lines 40--40
-| | | |[][][][][][]\TU/lmtt/m/n/10.95 bcc_id[tmp.second] 
- []
-
-
-Overfull \hbox (53.60887pt too wide) in paragraph at lines 40--40
-[]\TU/lmtt/m/n/10.95 =[] 
- []
-
-
-Overfull \hbox (93.85011pt too wide) in paragraph at lines 40--40
-\TU/lmtt/m/n/10.95 bcc_cnt;|  
- []
-
-
-Overfull \hbox (47.86012pt too wide) detected at line 40
-[]
- []
-
-
-Overfull \hbox (59.35742pt too wide) in paragraph at lines 42--42
-\TU/lmtt/m/n/10.95 (tmp.first 
- []
-
-
-Overfull \hbox (13.36763pt too wide) in paragraph at lines 42--42
-[]\TU/lmtt/m/n/10.95 ==[] 
- []
-
-
-Overfull \hbox (19.11618pt too wide) in paragraph at lines 42--42
-\TU/lmtt/m/n/10.95 now 
- []
-
-
-Overfull \hbox (13.36763pt too wide) in paragraph at lines 42--42
-[]\TU/lmtt/m/n/10.95 &&[] 
- []
-
-
-Overfull \hbox (59.35742pt too wide) in paragraph at lines 42--42
-\TU/lmtt/m/n/10.95 tmp.second 
- []
-
-
-Overfull \hbox (13.36763pt too wide) in paragraph at lines 42--42
-[]\TU/lmtt/m/n/10.95 ==[] 
- []
-
-
-Overfull \hbox (19.11638pt too wide) in paragraph at lines 42--42
-\TU/lmtt/m/n/10.95 to)|  
- []
-
-
-Overfull \hbox (59.35762pt too wide) in paragraph at lines 43--43
-| | | |[][][][][][][]\TU/lmtt/b/n/10.95 break[]\TU/lmtt/m/n/10.95 ;|  
- []
-
-
-Overfull \hbox (47.86012pt too wide) detected at line 43
-[]
- []
-
-
-Overfull \hbox (13.36743pt too wide) in paragraph at lines 49--49
-\TU/lmtt/m/n/10.95 std[]::[]min(low[now], 
- []
-
-)
-runsystem(pygmentize -l cpp -f latex -P commandprefix=PYG -F tokenmerge -o _min
-ted-main/71122FCECAD94B791F19FAFC9ADCD0E81B4A495A58F6809C7505F7C1EED5DA0B.pygte
-x ./graph-theory/edge-biconnected-component.cpp)...executed.
-
-
+[19])
 (./_minted-main/71122FCECAD94B791F19FAFC9ADCD0E81B4A495A58F6809C7505F7C1EED5DA0
-B.pygtex
-Overfull \hbox (13.36743pt too wide) in paragraph at lines 21--21
-\TU/lmtt/m/n/10.95 std[]::[]min(low[now], 
+B.pygtex)
+(./_minted-main/1938E197E1943936E9A88CB9D6E8649D44EB0548163EACB1936E097591FA815
+A.pygtex [20])
+(./_minted-main/6CF49B944DCFF1EE77534A958D18761FA925C57E5FDE9B7F68973C3E07BDA57
+4.pygtex)
+(./_minted-main/EA037AD62A235C02ECDB854AC452AAB89C23E94EE8B81638AC1F9A38C1C9396
+A.pygtex
+Overfull \hbox (118.17519pt too wide) in paragraph at lines 2--2
+| | | |[]|  
  []
 
 
-Overfull \hbox (13.36743pt too wide) in paragraph at lines 23--23
-\TU/lmtt/m/n/10.95 isbridge[i 
+Overfull \hbox (179.17519pt too wide) in paragraph at lines 4--4
+| | | |[]|  
  []
 
-[22]
-Overfull \hbox (13.36743pt too wide) in paragraph at lines 26--26
-\TU/lmtt/m/n/10.95 std[]::[]min(low[now], 
+
+Overfull \hbox (130.92519pt too wide) in paragraph at lines 7--7
+| | | |[]|  
  []
 
-) (./graph-theory/graph-isomorphism.tex
-Overfull \hbox (94.56313pt too wide) detected at line 7
-\OML/cmm/m/it/10.95 F[]\OT1/cmr/m/n/10.95 (\OML/cmm/m/it/10.95 i\OT1/cmr/m/n/10
-.95 ) = (\OML/cmm/m/it/10.95 F[]\OT1/cmr/m/n/10.95 (\OML/cmm/m/it/10.95 i\OT1/c
-mr/m/n/10.95 ) \OMS/cmsy/m/n/10.95 ^^B \OML/cmm/m/it/10.95 A \OT1/cmr/m/n/10.95
- + [] \OML/cmm/m/it/10.95 F[]\OT1/cmr/m/n/10.95 (\OML/cmm/m/it/10.95 j\OT1/cmr/
-m/n/10.95 ) \OMS/cmsy/m/n/10.95 ^^B \OML/cmm/m/it/10.95 B \OT1/cmr/m/n/10.95 + 
-[] \OML/cmm/m/it/10.95 F[]\OT1/cmr/m/n/10.95 (\OML/cmm/m/it/10.95 j\OT1/cmr/m/n
-/10.95 ) \OMS/cmsy/m/n/10.95 ^^B \OML/cmm/m/it/10.95 C \OT1/cmr/m/n/10.95 + \OM
-L/cmm/m/it/10.95 D \OMS/cmsy/m/n/10.95 ^^B \OT1/cmr/m/n/10.95 (\OML/cmm/m/it/10
-.95 i \OT1/cmr/m/n/10.95 = \OML/cmm/m/it/10.95 a\OT1/cmr/m/n/10.95 )) \OML/cmm/
-m/it/10.95 mod P
+
+Overfull \hbox (84.92519pt too wide) in paragraph at lines 11--11
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][]|  
+ []
+
+
+Overfull \hbox (160.92519pt too wide) in paragraph at lines 37--37
+| | | |[]|  
+ []
+
+
+Overfull \hbox (80.17519pt too wide) in paragraph at lines 44--44
+| | | |[][][][][][][][][]|  
+ []
+
+[21]
+Overfull \hbox (32.42519pt too wide) in paragraph at lines 59--59
+| | | |[][][][][][][][][][][][][][][][][][][][][][][][][][][][][]|  
+ []
+
+
+Overfull \hbox (28.42519pt too wide) in paragraph at lines 60--60
+| | | |[][][][][][][][][][][][][][][]|  
+ []
+
+
+Overfull \hbox (30.30519pt too wide) in paragraph at lines 71--71
+| | | |[]|  
+ []
+
+
+Overfull \hbox (27.17519pt too wide) in paragraph at lines 92--92
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]|  
  []
 
 )
-runsystem(pygmentize -l cpp -f latex -P commandprefix=PYG -F tokenmerge -o _min
-ted-main/1938E197E1943936E9A88CB9D6E8649D44EB0548163EACB1936E097591FA815A.pygte
-x ./graph-theory/rooted-tree-isomorphism-Reshiram.cpp)...executed.
-
-
-(./_minted-main/1938E197E1943936E9A88CB9D6E8649D44EB0548163EACB1936E097591FA815
-A.pygtex)
-runsystem(pygmentize -l cpp -f latex -P commandprefix=PYG -F tokenmerge -o _min
-ted-main/6523FF1D4872B005BE8B463FA6226EC4.pygtex ./graph-theory/Hopcraft-Karp.c
-pp)...executed.
-
-
-
-! Package minted Error: Missing Pygments output; \inputminted was
-probably given a file that does not exist--otherwise, you may need 
-the outputdir package option, or may be using an incompatible build tool,
-or may be using frozencache with a missing file.
-
-See the minted package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.12 ...es]{cpp}{./graph-theory/Hopcraft-Karp.cpp}
-                                                  
-This could be caused by using -output-directory or -aux-directory 
-without setting minted's outputdir, or by using a build tool that 
-changes paths in ways minted cannot detect, 
-or using frozencache with a missing file.
-
-runsystem(pygmentize -l cpp -f latex -P commandprefix=PYG -F tokenmerge -o _min
-ted-main/EA037AD62A235C02ECDB854AC452AAB89C23E94EE8B81638AC1F9A38C1C9396A.pygte
-x ./graph-theory/ISAP-maximum-flow.cpp)...executed.
-
-
-(./_minted-main/EA037AD62A235C02ECDB854AC452AAB89C23E94EE8B81638AC1F9A38C1C9396
-A.pygtex [23]
-Overfull \hbox (116.84511pt too wide) in paragraph at lines 11--11
-\TU/lmtt/m/n/10.95 last[maxn],cnte[]=[][]0[],d[maxn],p[maxn],c[maxn],cur[maxn],
-q[maxn];|  
- []
-
-
-Overfull \hbox (7.61888pt too wide) in paragraph at lines 49--49
-[]\TU/lmtt/m/n/10.95 &[]i[]=[]cur[x];[]~[]i;i[]=[]e[i].prev)|  
- []
-
-
-Overfull \hbox (76.60387pt too wide) in paragraph at lines 50--50
-| | | |[][][][]\TU/lmtt/b/n/10.95 if[]\TU/lmtt/m/n/10.95 (e[i].cap[]&&[]d[x][]=
-=[]d[e[i].to][]+[][]1[]){|  
- []
-
-
-Overfull \hbox (7.61888pt too wide) in paragraph at lines 51--51
-| | | |[][][][]\TU/lmtt/m/n/10.95 p[e[i].to][]=[]i;|  
- []
-
-
-Overfull \hbox (53.60887pt too wide) in paragraph at lines 58--58
-\TU/lmtt/m/n/10.95 i[]=[]last[x];[]~[]i;i[]=[]e[i].prev)|  
- []
-
-
-Overfull \hbox (151.3376pt too wide) in paragraph at lines 59--59
-| | | |[][][][][]\TU/lmtt/b/n/10.95 if[]\TU/lmtt/m/n/10.95 (e[i].cap)tmp[]=[]mi
-n(tmp,d[e[i].to][]+[][]1[]);|  
- []
-
-
-Overfull \hbox (30.61388pt too wide) in paragraph at lines 60--60
-| | | |[][][][]\TU/lmtt/b/n/10.95 if[]\TU/lmtt/m/n/10.95 ([]!--[]c[d[x]])[]\TU/
-lmtt/b/n/10.95 break[]\TU/lmtt/m/n/10.95 ;[]\TU/lmtt/m/it/10.95 //gap 
- []
-
-
-Overfull \hbox (19.11638pt too wide) in paragraph at lines 63--63
-| | | |[][][][]\TU/lmtt/b/n/10.95 if[]\TU/lmtt/m/n/10.95 (x[]!=[]s)x[]=[]e[p[x]
-[]^[][]1[]].to;|  
- []
-
-
-Overfull \hbox (7.61888pt too wide) in paragraph at lines 80--80
-\TU/lmtt/m/n/10.95 i[]=[]last[x];[]~[]i;i[]=[]e[i].prev)|  
- []
-
-
-Overfull \hbox (65.10637pt too wide) in paragraph at lines 81--81
-| | | |[][][][]\TU/lmtt/b/n/10.95 if[]\TU/lmtt/m/n/10.95 (e[i[]^[][]1[]].cap[]&
-&[]d[e[i].to][]==-[][]1[]){|  
- []
-
-
-Overfull \hbox (36.36263pt too wide) in paragraph at lines 82--82
-| | | |[][][][]\TU/lmtt/m/n/10.95 d[e[i].to][]=[]d[x][]+[][]1[];|  
- []
-
-
-Overfull \hbox (36.36263pt too wide) in paragraph at lines 83--83
-| | | |[][][][]\TU/lmtt/m/n/10.95 q[tail[]++[]][]=[]e[i].to;|  
- []
-
-
-Overfull \hbox (76.60387pt too wide) in paragraph at lines 92--92
-\TU/lmtt/m/n/10.95 x[]=[]t;x[]!=[]s;x[]=[]e[p[x][]^[][]1[]].to)a[]=[]min(a,e[p[
-x]].cap);|  
- []
-
-[24])
-runsystem(pygmentize -l cpp -f latex -P commandprefix=PYG -F tokenmerge -o _min
-ted-main/3E09A569FCD8A19FA10D100FA7D9AFBBC4B3AE1C2D426822BB995689DDD4C2CE.pygte
-x ./graph-theory/zkw-cost-flow.cpp)...executed.
-
-
 (./_minted-main/3E09A569FCD8A19FA10D100FA7D9AFBBC4B3AE1C2D426822BB995689DDD4C2C
 E.pygtex)
-runsystem(pygmentize -l cpp -f latex -P commandprefix=PYG -F tokenmerge -o _min
-ted-main/BA48FDB594DF4441DA108D58B8D0B16A898EE655CF788C3228F8DF5E0782CA94.pygte
-x ./graph-theory/StoerWagner.cpp)...executed.
-
-
 (./_minted-main/BA48FDB594DF4441DA108D58B8D0B16A898EE655CF788C3228F8DF5E0782CA9
 4.pygtex
 Invalid UTF-8 byte or sequence at line 3 replaced by U+FFFD.
@@ -1966,1080 +1600,53 @@ Missing character: There is no � in font [lmmono10-italic]:!
 Missing character: There is no � in font [lmmono10-italic]:!
 Missing character: There is no С in font [lmmono10-italic]:!
 Missing character: There is no � in font [lmmono10-italic]:!
-
-Overfull \hbox (65.10637pt too wide) in paragraph at lines 25--25
-\TU/lmtt/m/n/10.95 edge[v[pre]][v[j]];|  
- []
-
-
-Overfull \hbox (19.11618pt too wide) in paragraph at lines 26--26
-\TU/lmtt/m/n/10.95 wage[last]) 
- []
-
-[25]
-Overfull \hbox (24.86513pt too wide) in paragraph at lines 34--34
-\TU/lmtt/m/n/10.95 edge[v[last]][v[i]];|  
- []
-
-
-Overfull \hbox (24.86513pt too wide) in paragraph at lines 35--35
-\TU/lmtt/m/n/10.95 edge[v[last]][v[i]];|  
- []
-
-)
-runsystem(pygmentize -l cpp -f latex -P commandprefix=PYG -F tokenmerge -o _min
-ted-main/10229611D3D758AE61829D9F85F0B14C6D82FF8284876D34CBB7BB8BA1069F0A.pygte
-x ./graph-theory/KM-Algorithm.cpp)...executed.
-
-
+ [22])
 (./_minted-main/10229611D3D758AE61829D9F85F0B14C6D82FF8284876D34CBB7BB8BA1069F0
 A.pygtex
-Overfull \hbox (7.61868pt too wide) in paragraph at lines 44--44
-\TU/lmtt/m/n/10.95 std[]::[]max(ex_A[i], 
+Overfull \hbox (105.92519pt too wide) in paragraph at lines 5--5
+| | | |[]|  
  []
 
 
-Overfull \hbox (30.61368pt too wide) in paragraph at lines 57--57
-\TU/lmtt/m/n/10.95 std[]::[]min(tmp, 
+Overfull \hbox (163.67519pt too wide) in paragraph at lines 9--9
+| | | |[]|  
  []
 
-
-Overfull \hbox (13.36763pt too wide) in paragraph at lines 57--57
-\TU/lmtt/m/n/10.95 slack[j]);|  
- []
-
-
-Overfull \hbox (13.36743pt too wide) in paragraph at lines 59--59
-\TU/lmtt/m/n/10.95 (vis_A[j]) 
- []
-
-
-Overfull \hbox (13.36743pt too wide) in paragraph at lines 60--60
-\TU/lmtt/m/n/10.95 (vis_B[j]) 
- []
-
-[26])
-runsystem(pygmentize -l cpp -f latex -P commandprefix=PYG -F tokenmerge -o _min
-ted-main/D7B3DE59FAE64767FE68F985936B2DB41FE26B4E162ECCD8C8D9B921BA530F5A.pygte
-x ./graph-theory/general-graph-maximum-weight-matching.cpp)...executed.
-
-
+)
 (./_minted-main/D7B3DE59FAE64767FE68F985936B2DB41FE26B4E162ECCD8C8D9B921BA530F5
 A.pygtex
-Overfull \hbox (1.87013pt too wide) in paragraph at lines 25--25
-\TU/lmtt/m/n/10.95 e_delta(g[slack[x]][x]))|  
+Overfull \hbox (274.20518pt too wide) in paragraph at lines 2--2
+| | | |[]|  
  []
 
 
-Overfull \hbox (19.11618pt too wide) in paragraph at lines 32--32
-| | | |[][][][]\TU/lmtt/m/n/10.95 update_slack(u, 
+Overfull \hbox (69.2452pt too wide) in paragraph at lines 4--4
+| | | |[]|  
  []
 
-
-Overfull \hbox (7.61888pt too wide) in paragraph at lines 37--37
-| | | |[][][]\TU/lmtt/m/n/10.95 q_push(flower[x][i]);|  
- []
-
-
-Overfull \hbox (93.84991pt too wide) in paragraph at lines 42--42
-| | | |[][][][][]\TU/lmtt/m/n/10.95 set_st(flower[x][i], 
- []
-
-
-Overfull \hbox (19.11638pt too wide) in paragraph at lines 42--42
-\TU/lmtt/m/n/10.95 b);|  
- []
-
-
-Overfull \hbox (30.61368pt too wide) in paragraph at lines 47--47
-| | | |[][][]\TU/lmtt/m/n/10.95 reverse(flower[b].begin() 
- []
-
-
-Overfull \hbox (7.61888pt too wide) in paragraph at lines 47--47
-\TU/lmtt/m/n/10.95 flower[b].end());|  
- []
-
-
-Overfull \hbox (30.61368pt too wide) in paragraph at lines 48--48
-\TU/lmtt/m/n/10.95 ([]\TU/lmtt/b/n/10.95 int[]\TU/lmtt/m/n/10.95 )flower[b].siz
-e() 
- []
-
-
-Overfull \hbox (24.86493pt too wide) in paragraph at lines 55--55
-\TU/lmtt/m/n/10.95 flower_from[u][e.u], 
- []
-
-
-Overfull \hbox (65.10617pt too wide) in paragraph at lines 57--57
-| | | |[][][][]\TU/lmtt/m/n/10.95 set_match(flower[u][i], 
- []
-
-
-Overfull \hbox (19.11618pt too wide) in paragraph at lines 57--57
-\TU/lmtt/m/n/10.95 flower[u][i 
- []
-
-
-Overfull \hbox (30.61368pt too wide) in paragraph at lines 59--59
-| | | |[][][]\TU/lmtt/m/n/10.95 rotate(flower[u].begin(), 
- []
-
-
-Overfull \hbox (30.61368pt too wide) in paragraph at lines 59--59
-\TU/lmtt/m/n/10.95 flower[u].begin()[]+[]pr, 
- []
-
-
-Overfull \hbox (7.61888pt too wide) in paragraph at lines 59--59
-\TU/lmtt/m/n/10.95 flower[u].end());|  
- []
-
-
-Overfull \hbox (7.61888pt too wide) in paragraph at lines 64--64
-\TU/lmtt/m/n/10.95 xnv[]=[]st[match[u]];|  
- []
-
-[27]
-Overfull \hbox (19.11638pt too wide) in paragraph at lines 91--91
-| | | |[][][]\TU/lmtt/m/n/10.95 flower[b].push_back(x),|  
- []
-
-
-Overfull \hbox (7.61868pt too wide) in paragraph at lines 92--92
-| | | |[][][]\TU/lmtt/m/n/10.95 flower[b].push_back(y 
- []
-
-
-Overfull \hbox (19.11638pt too wide) in paragraph at lines 97--97
-| | | |[][][]\TU/lmtt/m/n/10.95 flower[b].push_back(x),|  
- []
-
-
-Overfull \hbox (7.61868pt too wide) in paragraph at lines 98--98
-| | | |[][][]\TU/lmtt/m/n/10.95 flower[b].push_back(y 
- []
-
-
-Overfull \hbox (1.86993pt too wide) in paragraph at lines 107--107
-| | | |[][][][][]\TU/lmtt/b/n/10.95 if[]\TU/lmtt/m/n/10.95 (g[b][x].w 
- []
-
-
-Overfull \hbox (53.60867pt too wide) in paragraph at lines 107--107
-\TU/lmtt/m/n/10.95 e_delta(g[xs][x]) 
- []
-
-
-Overfull \hbox (53.60887pt too wide) in paragraph at lines 107--107
-\TU/lmtt/m/n/10.95 e_delta(g[b][x]))|  
- []
-
-
-Overfull \hbox (19.11618pt too wide) in paragraph at lines 108--108
-| | | |[][][][][]\TU/lmtt/m/n/10.95 g[b][x] 
- []
-
-
-Overfull \hbox (7.61888pt too wide) in paragraph at lines 108--108
-[]\TU/lmtt/m/n/10.95 =[] 
- []
-
-
-Overfull \hbox (53.60867pt too wide) in paragraph at lines 108--108
-\TU/lmtt/m/n/10.95 g[xs][x], 
- []
-
-
-Overfull \hbox (42.11118pt too wide) in paragraph at lines 108--108
-\TU/lmtt/m/n/10.95 g[x][b] 
- []
-
-
-Overfull \hbox (7.61888pt too wide) in paragraph at lines 108--108
-[]\TU/lmtt/m/n/10.95 =[] 
- []
-
-
-Overfull \hbox (53.60887pt too wide) in paragraph at lines 108--108
-\TU/lmtt/m/n/10.95 g[x][xs];|  
- []
-
-
-Overfull \hbox (59.35742pt too wide) in paragraph at lines 110--110
-| | | |[][][][][]\TU/lmtt/b/n/10.95 if[]\TU/lmtt/m/n/10.95 (flower_from[xs][x])
- 
- []
-
-
-Overfull \hbox (53.60867pt too wide) in paragraph at lines 110--110
-\TU/lmtt/m/n/10.95 flower_from[b][x] 
- []
-
-
-Overfull \hbox (1.86993pt too wide) in paragraph at lines 116--116
-| | | |[][][]\TU/lmtt/m/n/10.95 set_st(flower[b][i], 
- []
-
-
-Overfull \hbox (36.36243pt too wide) in paragraph at lines 117--117
-\TU/lmtt/m/n/10.95 flower_from[b][g[b][pa[b]].u], 
- []
-
-[28]
-Overfull \hbox (59.35762pt too wide) in paragraph at lines 155--155
-\TU/lmtt/m/n/10.95 q.front();q.pop();|  
- []
-
-
-Overfull \hbox (19.11638pt too wide) in paragraph at lines 156--156
-[]\TU/lmtt/m/n/10.95 1[])[]\TU/lmtt/b/n/10.95 continue[]\TU/lmtt/m/n/10.95 ;|  
-
- []
-
-
-Overfull \hbox (47.85992pt too wide) in paragraph at lines 158--158
-| | | |[][][][][][]\TU/lmtt/b/n/10.95 if[]\TU/lmtt/m/n/10.95 (g[u][v].w 
- []
-
-
-Overfull \hbox (7.61888pt too wide) in paragraph at lines 158--158
-[]\TU/lmtt/m/n/10.95 >[] 
- []
-
-
-Overfull \hbox (7.61888pt too wide) in paragraph at lines 158--158
-[]\TU/lmtt/m/n/10.95 0[] 
- []
-
-
-Overfull \hbox (13.36763pt too wide) in paragraph at lines 158--158
-[]\TU/lmtt/m/n/10.95 &&[] 
- []
-
-
-Overfull \hbox (30.61368pt too wide) in paragraph at lines 158--158
-\TU/lmtt/m/n/10.95 st[u] 
- []
-
-
-Overfull \hbox (13.36763pt too wide) in paragraph at lines 158--158
-[]\TU/lmtt/m/n/10.95 !=[] 
- []
-
-
-Overfull \hbox (42.11137pt too wide) in paragraph at lines 158--158
-\TU/lmtt/m/n/10.95 st[v]){|  
- []
-
-
-Overfull \hbox (134.09116pt too wide) in paragraph at lines 159--159
-| | | |[][][][][][][]\TU/lmtt/b/n/10.95 if[]\TU/lmtt/m/n/10.95 (e_delta(g[u][v]
-) 
- []
-
-
-Overfull \hbox (59.35762pt too wide) in paragraph at lines 159--159
-[]\TU/lmtt/m/n/10.95 ==[] 
- []
-
-
-Overfull \hbox (65.10637pt too wide) in paragraph at lines 159--159
-[]\TU/lmtt/m/n/10.95 0[]){|  
- []
-
-
-Overfull \hbox (47.86012pt too wide) detected at line 159
-[]
- []
-
-
-Overfull \hbox (254.81508pt too wide) in paragraph at lines 160--160
-| | | |[][][][][][][][]\TU/lmtt/b/n/10.95 if[]\TU/lmtt/m/n/10.95 (on_found_edge
-(g[u][v]))[]\TU/lmtt/b/n/10.95 return[] 
- []
-
-
-Overfull \hbox (122.59386pt too wide) in paragraph at lines 160--160
-[]\TU/lmtt/m/n/10.95 true[];|  
- []
-
-
-Overfull \hbox (93.85011pt too wide) detected at line 160
-[]
- []
-
-
-Overfull \hbox (53.60887pt too wide) in paragraph at lines 161--161
-| | | |[][][][][][]\TU/lmtt/m/n/10.95 }[]\TU/lmtt/b/n/10.95 else[] 
- []
-
-
-Overfull \hbox (134.09116pt too wide) in paragraph at lines 161--161
-\TU/lmtt/m/n/10.95 update_slack(u, 
- []
-
-
-Overfull \hbox (88.10136pt too wide) in paragraph at lines 161--161
-\TU/lmtt/m/n/10.95 st[v]);|  
- []
-
-
-Overfull \hbox (47.86012pt too wide) detected at line 161
-[]
- []
-
-
-Overfull \hbox (13.36763pt too wide) in paragraph at lines 166--166
-\TU/lmtt/m/n/10.95 lab[b][]/[][]2[]);|  
- []
-
-
-Overfull \hbox (13.36763pt too wide) in paragraph at lines 168--168
-\TU/lmtt/m/n/10.95 slack[x]){|  
- []
-
-
-Overfull \hbox (19.11618pt too wide) in paragraph at lines 169--169
-| | | |[][][][][][]\TU/lmtt/b/n/10.95 if[]\TU/lmtt/m/n/10.95 (S[x] 
- []
-
-
-Overfull \hbox (13.36763pt too wide) in paragraph at lines 169--169
-[]\TU/lmtt/m/n/10.95 ==[] 
- []
-
-
-Overfull \hbox (24.86493pt too wide) in paragraph at lines 169--169
-[]\TU/lmtt/m/n/10.95 -[][]1[])d 
- []
-
-
-Overfull \hbox (7.61888pt too wide) in paragraph at lines 169--169
-[]\TU/lmtt/m/n/10.95 =[] 
- []
-
-
-Overfull \hbox (36.36243pt too wide) in paragraph at lines 169--169
-\TU/lmtt/m/n/10.95 min(d, 
- []
-
-
-Overfull \hbox (145.58885pt too wide) in paragraph at lines 169--169
-\TU/lmtt/m/n/10.95 e_delta(g[slack[x]][x]));|  
- []
-
-
-Overfull \hbox (1.87013pt too wide) in paragraph at lines 170--170
-| | | |[][][][][][]\TU/lmtt/b/n/10.95 else[] 
- []
-
-
-Overfull \hbox (42.11118pt too wide) in paragraph at lines 170--170
-[]\TU/lmtt/b/n/10.95 if[]\TU/lmtt/m/n/10.95 (S[x] 
- []
-
-
-Overfull \hbox (13.36763pt too wide) in paragraph at lines 170--170
-[]\TU/lmtt/m/n/10.95 ==[] 
- []
-
-
-Overfull \hbox (19.11618pt too wide) in paragraph at lines 170--170
-[]\TU/lmtt/m/n/10.95 0[])d 
- []
-
-
-Overfull \hbox (7.61888pt too wide) in paragraph at lines 170--170
-[]\TU/lmtt/m/n/10.95 =[] 
- []
-
-
-Overfull \hbox (36.36243pt too wide) in paragraph at lines 170--170
-\TU/lmtt/m/n/10.95 min(d, 
- []
-
-
-Overfull \hbox (157.08635pt too wide) in paragraph at lines 170--170
-\TU/lmtt/m/n/10.95 e_delta(g[slack[x]][x])[]/[][]2[]);|  
- []
-
-
-Overfull \hbox (30.61368pt too wide) in paragraph at lines 174--174
-| | | |[][][][][][]\TU/lmtt/b/n/10.95 if[]\TU/lmtt/m/n/10.95 (lab[u] 
- []
-
-
-Overfull \hbox (13.36763pt too wide) in paragraph at lines 174--174
-[]\TU/lmtt/m/n/10.95 <=[] 
- []
-
-
-Overfull \hbox (47.86012pt too wide) in paragraph at lines 174--174
-\TU/lmtt/m/n/10.95 d)[]\TU/lmtt/b/n/10.95 return[] 
- []
-
-
-Overfull \hbox (13.36763pt too wide) in paragraph at lines 174--174
-[]\TU/lmtt/m/n/10.95 0[];|  
- []
-
-
-Overfull \hbox (13.36743pt too wide) in paragraph at lines 175--175
-| | | |[][][][][]\TU/lmtt/m/n/10.95 lab[u] 
- []
-
-
-Overfull \hbox (13.36763pt too wide) in paragraph at lines 175--175
-[]\TU/lmtt/m/n/10.95 -=[] 
- []
-
-
-Overfull \hbox (13.36763pt too wide) in paragraph at lines 175--175
-\TU/lmtt/m/n/10.95 d;|  
- []
-
-
-Overfull \hbox (19.11618pt too wide) in paragraph at lines 176--176
-[]\TU/lmtt/b/n/10.95 if[]\TU/lmtt/m/n/10.95 (S[st[u]] 
- []
-
-
-Overfull \hbox (1.86993pt too wide) in paragraph at lines 176--176
-[]\TU/lmtt/m/n/10.95 1[])lab[u] 
- []
-
-[29]
-Overfull \hbox (42.11118pt too wide) in paragraph at lines 180--180
-| | | |[][][][][][]\TU/lmtt/b/n/10.95 if[]\TU/lmtt/m/n/10.95 (S[st[b]] 
- []
-
-
-Overfull \hbox (13.36763pt too wide) in paragraph at lines 180--180
-[]\TU/lmtt/m/n/10.95 ==[] 
- []
-
-
-Overfull \hbox (13.36743pt too wide) in paragraph at lines 180--180
-[]\TU/lmtt/m/n/10.95 0[]) 
- []
-
-
-Overfull \hbox (36.36243pt too wide) in paragraph at lines 180--180
-\TU/lmtt/m/n/10.95 lab[b] 
- []
-
-
-Overfull \hbox (13.36763pt too wide) in paragraph at lines 180--180
-[]\TU/lmtt/m/n/10.95 +=[] 
- []
-
-
-Overfull \hbox (7.61868pt too wide) in paragraph at lines 180--180
-\TU/lmtt/m/n/10.95 d 
- []
-
-
-Overfull \hbox (7.61888pt too wide) in paragraph at lines 180--180
-[]\TU/lmtt/m/n/10.95 *[] 
- []
-
-
-Overfull \hbox (13.36763pt too wide) in paragraph at lines 180--180
-[]\TU/lmtt/m/n/10.95 2[];|  
- []
-
-
-Overfull \hbox (1.87013pt too wide) in paragraph at lines 181--181
-| | | |[][][][][][]\TU/lmtt/b/n/10.95 else[] 
- []
-
-
-Overfull \hbox (65.10617pt too wide) in paragraph at lines 181--181
-[]\TU/lmtt/b/n/10.95 if[]\TU/lmtt/m/n/10.95 (S[st[b]] 
- []
-
-
-Overfull \hbox (13.36763pt too wide) in paragraph at lines 181--181
-[]\TU/lmtt/m/n/10.95 ==[] 
- []
-
-
-Overfull \hbox (13.36743pt too wide) in paragraph at lines 181--181
-[]\TU/lmtt/m/n/10.95 1[]) 
- []
-
-
-Overfull \hbox (36.36243pt too wide) in paragraph at lines 181--181
-\TU/lmtt/m/n/10.95 lab[b] 
- []
-
-
-Overfull \hbox (13.36763pt too wide) in paragraph at lines 181--181
-[]\TU/lmtt/m/n/10.95 -=[] 
- []
-
-
-Overfull \hbox (7.61868pt too wide) in paragraph at lines 181--181
-\TU/lmtt/m/n/10.95 d 
- []
-
-
-Overfull \hbox (7.61888pt too wide) in paragraph at lines 181--181
-[]\TU/lmtt/m/n/10.95 *[] 
- []
-
-
-Overfull \hbox (13.36763pt too wide) in paragraph at lines 181--181
-[]\TU/lmtt/m/n/10.95 2[];|  
- []
-
-
-Overfull \hbox (1.86993pt too wide) in paragraph at lines 185--185
-\TU/lmtt/m/n/10.95 slack[x] 
- []
-
-
-Overfull \hbox (24.86493pt too wide) in paragraph at lines 185--185
-\TU/lmtt/m/n/10.95 st[slack[x]] 
- []
-
-
-Overfull \hbox (88.10117pt too wide) in paragraph at lines 185--185
-\TU/lmtt/m/n/10.95 e_delta(g[slack[x]][x]) 
- []
-
-
-Overfull \hbox (203.07634pt too wide) in paragraph at lines 186--186
-| | | |[][][][][][]\TU/lmtt/b/n/10.95 if[]\TU/lmtt/m/n/10.95 (on_found_edge(g[s
-lack[x]][x]))[]\TU/lmtt/b/n/10.95 return[] 
- []
-
-
-Overfull \hbox (30.61388pt too wide) in paragraph at lines 186--186
-[]\TU/lmtt/m/n/10.95 true[];|  
- []
-
-
-Overfull \hbox (70.85512pt too wide) in paragraph at lines 188--188
-[]\TU/lmtt/m/n/10.95 0[])expand_blossom(b);|  
- []
-
-
-Overfull \hbox (30.61368pt too wide) in paragraph at lines 201--201
-| | | |[][][][]\TU/lmtt/m/n/10.95 flower_from[u][v] 
- []
-
-
-Overfull \hbox (13.36743pt too wide) in paragraph at lines 202--202
-\TU/lmtt/m/n/10.95 max(w_max, 
- []
-
-
-Overfull \hbox (19.11638pt too wide) in paragraph at lines 202--202
-\TU/lmtt/m/n/10.95 g[u][v].w);|  
- []
-
-
-Overfull \hbox (53.60887pt too wide) in paragraph at lines 208--208
-\TU/lmtt/m/n/10.95 g[u][match[u]].w;|  
- []
-
-
-Overfull \hbox (19.11618pt too wide) in paragraph at lines 214--214
-| | | |[][][][]\TU/lmtt/m/n/10.95 g[u][v][]=[]edge(u, 
- []
-
-) (./graph-theory/manhattan-minimum-spanning-tree.tex
-
-! LaTeX Error: Environment lstlisting undefined.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.1 \begin{lstlisting}
-                      
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.10 ^^Ivoid make( int _
-                        x,int _y,int _z ) { x=_x; y=_y; z=_z; }
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-! Extra }, or forgotten $.
-l.11 }
-       data[maxn*4];
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.12 
-     
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-
-Overfull \hbox (107.07828pt too wide) in paragraph at lines 2--12
-\TU/lmr/m/n/10.95 TreeEdge  int x,y,z; void make( int $[]\OML/cmm/m/it/10.95 ; 
-int[]; int[]\OT1/cmr/m/n/10.95 )[]\OML/cmm/m/it/10.95 data\OT1/cmr/m/n/10.95 [\
-OML/cmm/m/it/10.95 maxn \OMS/cmsy/m/n/10.95 ^^C
- []
-
-! Misplaced alignment tab character &.
-<recently read> &
-                 
-l.13 inline bool operator < ( const TreeEdge&
-                                              x,const TreeEdge& y ){
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-! Misplaced alignment tab character &.
-<recently read> &
-                 
-l.13 ...ator < ( const TreeEdge& x,const TreeEdge&
-                                                   y ){
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-! Misplaced alignment tab character &.
-l.21 ...]-x[a]<y[b]-x[b] || y[a]-x[a]==y[b]-x[b] &
-                                                  & y[a]>y[b]); }
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-! Misplaced alignment tab character &.
-l.21 ...-x[a]<y[b]-x[b] || y[a]-x[a]==y[b]-x[b] &&
-                                                   y[a]>y[b]); }
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-! Misplaced alignment tab character &.
-l.22 ...]-x[a]>y[b]-x[b] || y[a]-x[a]==y[b]-x[b] &
-                                                  & x[a]>x[b]); }
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-! Misplaced alignment tab character &.
-l.22 ...-x[a]>y[b]-x[b] || y[a]-x[a]==y[b]-x[b] &&
-                                                   x[a]>x[b]); }
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-! Misplaced alignment tab character &.
-l.23 ...]+y[a]>x[b]+y[b] || x[a]+y[a]==x[b]+y[b] &
-                                                  & x[a]<x[b]); }
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-! Misplaced alignment tab character &.
-l.23 ...+y[a]>x[b]+y[b] || x[a]+y[a]==x[b]+y[b] &&
-                                                   x[a]<x[b]); }
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-! Misplaced alignment tab character &.
-l.24 ...]+y[a]<x[b]+y[b] || x[a]+y[a]==x[b]+y[b] &
-                                                  & y[a]>y[b]); }
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-! Misplaced alignment tab character &.
-l.24 ...+y[a]<x[b]+y[b] || x[a]+y[a]==x[b]+y[b] &&
-                                                   y[a]>y[b]); }
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.25 void Change_
-                 X()
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.56 ^^I
-        
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-! Missing } inserted.
-<inserted text> 
-                }
-l.56 ^^I
-        
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-
-Overfull \hbox (209.2575pt too wide) in paragraph at lines 17--56
-[]\TU/lmr/m/n/10.95 int x[maxn],y[maxn],px[maxn],py[maxn],id[maxn],tree[maxn],n
-ode[maxn],val[maxn],fa[maxn];
- []
-
-
-Overfull \hbox (20.96674pt too wide) in paragraph at lines 17--56
-\TU/lmr/m/n/10.95 (x[a]+y[a]>x[b]+y[b] || x[a]+y[a]==x[b]+y[b]  x[a]<x[b]);
- []
-
-
-Overfull \hbox (20.96674pt too wide) in paragraph at lines 17--56
-\TU/lmr/m/n/10.95 (x[a]+y[a]<x[b]+y[b] || x[a]+y[a]==x[b]+y[b]  y[a]>y[b]);
- []
-
-
-Overfull \hbox (3418.30908pt too wide) in paragraph at lines 17--56
-\TU/lmr/m/n/10.95 void Change$[]\OT1/cmr/m/n/10.95 ()[]\OML/cmm/m/it/10.95 void
-Change[]\OT1/cmr/m/n/10.95 ()[]\OML/cmm/m/it/10.95 inlineintabsValue\OT1/cmr/m/
-n/10.95 (\OML/cmm/m/it/10.95 intx\OT1/cmr/m/n/10.95 )[]\OML/cmm/m/it/10.95 inli
-neintCost\OT1/cmr/m/n/10.95 (\OML/cmm/m/it/10.95 inta; intb\OT1/cmr/m/n/10.95 )
-[]\OML/cmm/m/it/10.95 intfind\OT1/cmr/m/n/10.95 (\OML/cmm/m/it/10.95 intx\OT1/c
-mr/m/n/10.95 )[]\OML/cmm/m/it/10.95 intmain\OT1/cmr/m/n/10.95 ()[]$ 
- []
-
-[30]
-! Missing $ inserted.
-<inserted text> 
-                $
-l.61 ^^I^^IChange_
-                  X();
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.63 ^^I^^I
-           
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-! Misplaced alignment tab character &.
-<recently read> &
-                 
-l.71 ^^I^^I^^Ifor(int k=py[id[i]];k<=n;k+=k&
-                                            (-k)) if(tree[k]<Min) Min=tree[k...
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-! Misplaced alignment tab character &.
-<recently read> &
-                 
-l.74 ^^I^^I^^Ifor(int k=py[id[i]];k;k-=k&
-                                         (-k)) if(tmp<tree[k]) tree[k]=tmp,n...
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-! Misplaced alignment tab character &.
-<recently read> &
-                 
-l.81 ^^I^^I^^Ifor(int k=px[id[i]];k<=n;k+=k&
-                                            (-k)) if(tree[k]<Min) Min=tree[k...
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-! Misplaced alignment tab character &.
-<recently read> &
-                 
-l.84 ^^I^^I^^Ifor(int k=px[id[i]];k;k-=k&
-                                         (-k)) if(tmp<tree[k]) tree[k]=tmp,n...
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-! Misplaced alignment tab character &.
-<recently read> &
-                 
-l.91 ^^I^^I^^Ifor(int k=px[id[i]];k;k-=k&
-                                         (-k)) if(tree[k]<Min) Min=tree[k],T...
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-! Misplaced alignment tab character &.
-<recently read> &
-                 
-l.94 ^^I^^I^^Ifor(int k=px[id[i]];k<=n;k+=k&
-                                            (-k)) if(tmp<tree[k]) tree[k]=tm...
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-! Misplaced alignment tab character &.
-<recently read> &
-                 
-l.101 ^^I^^I^^Ifor(int k=py[id[i]];k<=n;k+=k&
-                                             (-k)) if(tree[k]<Min) Min=tree[...
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-! Misplaced alignment tab character &.
-<recently read> &
-                 
-l.104 ^^I^^I^^Ifor(int k=py[id[i]];k;k-=k&
-                                          (-k)) if(tmp<tree[k]) tree[k]=tmp,...
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-
-Overfull \hbox (79.20328pt too wide) in paragraph at lines 64--106
-[]\TU/lmr/m/n/10.95 int cntE = 0; for(int i=0;i<n;++i) id[i]=i; sort(id,id+n,co
-mpare3);
- []
-
-
-Overfull \hbox (89.17671pt too wide) in paragraph at lines 64--106
-\TU/lmr/m/n/10.95 i=0;i<n;++i)  int Min=Inf, Tnode=-1; for(int k=py[id[i]];k<=n
-;k+=k(-
- []
-
-
-Overfull \hbox (47.87086pt too wide) in paragraph at lines 64--106
-\TU/lmr/m/n/10.95 k)) if(tree[k]<Min) Min=tree[k],Tnode=node[k]; if(Tnode>=0)
- []
-
-
-Overfull \hbox (6.93977pt too wide) in paragraph at lines 64--106
-\TU/lmr/m/n/10.95 data[cntE++].make(id[i],Tnode,Cost(id[i],Tnode)); int
- []
-
-
-Overfull \hbox (70.28554pt too wide) in paragraph at lines 64--106
-\TU/lmr/m/n/10.95 if(tmp<tree[k]) tree[k]=tmp,node[k]=id[i];  sort(id,id+n,comp
-are4);
- []
-
-
-Overfull \hbox (89.17671pt too wide) in paragraph at lines 64--106
-\TU/lmr/m/n/10.95 i=0;i<n;++i)  int Min=Inf, Tnode=-1; for(int k=px[id[i]];k<=n
-;k+=k(-
- []
-
-
-Overfull \hbox (47.87086pt too wide) in paragraph at lines 64--106
-\TU/lmr/m/n/10.95 k)) if(tree[k]<Min) Min=tree[k],Tnode=node[k]; if(Tnode>=0)
+[23] [24]
+Overfull \hbox (63.92519pt too wide) in paragraph at lines 160--160
+| | | |[][][][][][][][][][][][][][][][][][] 
  []
 
 
-Overfull \hbox (6.93977pt too wide) in paragraph at lines 64--106
-\TU/lmr/m/n/10.95 data[cntE++].make(id[i],Tnode,Cost(id[i],Tnode)); int
+Overfull \hbox (6.17519pt too wide) in paragraph at lines 169--169
+[][][][][][][][][][]|  
  []
 
 
-Overfull \hbox (70.28554pt too wide) in paragraph at lines 64--106
-\TU/lmr/m/n/10.95 if(tmp<tree[k]) tree[k]=tmp,node[k]=id[i];  sort(id,id+n,comp
-are5);
+Overfull \hbox (16.67519pt too wide) in paragraph at lines 170--170
+[][][][][][][][][][][][][]|  
  []
 
 
-Overfull \hbox (38.97098pt too wide) in paragraph at lines 64--106
-\TU/lmr/m/n/10.95 i=0;i<n;++i)  int Min=Inf, Tnode=-1; for(int k=px[id[i]];k;k-
-
- []
-
-
-Overfull \hbox (60.6933pt too wide) in paragraph at lines 64--106
-\TU/lmr/m/n/10.95 if(Tnode>=0) data[cntE++].make(id[i],Tnode,Cost(id[i],Tnode))
-;
- []
-
-
-Overfull \hbox (25.3579pt too wide) in paragraph at lines 64--106
-\TU/lmr/m/n/10.95 int tmp=-x[id[i]]+y[id[i]]; for(int k=px[id[i]];k<=n;k+=k(-
- []
-
-
-Overfull \hbox (87.01714pt too wide) in paragraph at lines 64--106
-\TU/lmr/m/n/10.95 k)) if(tmp<tree[k]) tree[k]=tmp,node[k]=id[i];  sort(id,id+n,
-compare6);
- []
-
-
-Overfull \hbox (89.17671pt too wide) in paragraph at lines 64--106
-\TU/lmr/m/n/10.95 i=0;i<n;++i)  int Min=Inf, Tnode=-1; for(int k=py[id[i]];k<=n
-;k+=k(-
- []
-
-
-Overfull \hbox (47.87086pt too wide) in paragraph at lines 64--106
-\TU/lmr/m/n/10.95 k)) if(tree[k]<Min) Min=tree[k],Tnode=node[k]; if(Tnode>=0)
- []
-
-
-Overfull \hbox (6.93977pt too wide) in paragraph at lines 64--106
-\TU/lmr/m/n/10.95 data[cntE++].make(id[i],Tnode,Cost(id[i],Tnode)); int
- []
-
-
-Overfull \hbox (127.14886pt too wide) in paragraph at lines 107--115
-\TU/lmr/m/n/10.95 i=0;i<n;++i) fa[i]=i; for(int i=0;i<cntE;++i) if(find(data[i]
-.x)!=find(data[i].y))
+Overfull \hbox (58.67519pt too wide) in paragraph at lines 186--186
+| | | |[][][][][][][][][][][][][][][][][][] 
  []
-
-
-! LaTeX Error: \begin{document} ended by \end{lstlisting}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.120 ^^I\end{lstlisting}
-                         
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
 
 )
-Overfull \hbox (37.74226pt too wide) in paragraph at lines 116--25
-[]\TU/lmr/m/n/10.95 cout«”Case ”«++test«”: ”«”Total Weight = ”«Ans«endl;
- []
-
-(./graph-theory/hamilton-loop.tex
-
-! LaTeX Error: Environment lstlisting undefined.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.1 \begin{lstlisting}
-                      
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-! Misplaced alignment tab character &.
-l.46 ^^I^^I^^I^^Iif (graph[s][next[i]] &
-                                        & graph[t][i]) {
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-! Misplaced alignment tab character &.
-l.46 ^^I^^I^^I^^Iif (graph[s][next[i]] &&
-                                          graph[t][i]) {
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-
-! LaTeX Error: \begin{document} ended by \end{lstlisting}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.81 \end{lstlisting}
-                     
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-)
-runsystem(pygmentize -l cpp -f latex -P commandprefix=PYG -F tokenmerge -o _min
-ted-main/449FC2772B19959B5A79B48AA25EE11273080ECE4C9F20855CA9305D95E4DBE8.pygte
-x ./graph-theory/maximum-clique.cpp)...executed.
-
-
 (./_minted-main/449FC2772B19959B5A79B48AA25EE11273080ECE4C9F20855CA9305D95E4DBE
-8.pygtex [31])
-runsystem(pygmentize -l cpp -f latex -P commandprefix=PYG -F tokenmerge -o _min
-ted-main/EF1C43BA932773F268A1C0610732F3DDB994483E45BC58E5882912F82BBCC6B3.pygte
-x ./graph-theory/maximum-clique-counting.cpp)...executed.
-
-
+8.pygtex [25])
 (./_minted-main/EF1C43BA932773F268A1C0610732F3DDB994483E45BC58E5882912F82BBCC6B
 3.pygtex
 Invalid UTF-8 byte or sequence at line 13 replaced by U+FFFD.
@@ -3054,192 +1661,824 @@ Missing character: There is no � in font [lmmono10-italic]:!
 Missing character: There is no � in font [lmmono10-italic]:!
 Missing character: There is no � in font [lmmono10-italic]:!
 Missing character: There is no � in font [lmmono10-italic]:!
-
-Overfull \hbox (30.61388pt too wide) in paragraph at lines 48--48
-[]\TU/lmtt/b/n/10.95 if[]\TU/lmtt/m/n/10.95 (Bron_Kerbosch(d[]+[][]1[],nr[]+[][
-]1[],cnt1,cnt2))|  
+ [26]
+Overfull \hbox (74.42519pt too wide) in paragraph at lines 71--71
+[][][][][][]|  
  []
 
 )
-runsystem(pygmentize -l cpp -f latex -P commandprefix=PYG -F tokenmerge -o _min
-ted-main/169D62E8789AF534AD1429997977D148DC12F5C4915609B67050E51A24EF3DCA.pygte
-x ./graph-theory/virtual-tree-NewMeta.cpp)...executed.
-
-
 (./_minted-main/169D62E8789AF534AD1429997977D148DC12F5C4915609B67050E51A24EF3DC
-A.pygtex [32])
-runsystem(pygmentize -l cpp -f latex -P commandprefix=PYG -F tokenmerge -o _min
-ted-main/761E20203ECBA5C0891DA23174756711DCEF21DC440D7E1F4043F3D9437C321F.pygte
-x ./graph-theory/2-sat.cpp)...executed.
+A.pygtex
+Overfull \hbox (2.42519pt too wide) in paragraph at lines 2--2
+| | | |[]|  
+ []
 
 
+Overfull \hbox (18.67519pt too wide) in paragraph at lines 3--3
+| | | |[]|  
+ []
+
+
+Overfull \hbox (25.42519pt too wide) in paragraph at lines 5--5
+[]|  
+ []
+
+
+Overfull \hbox (52.05519pt too wide) in paragraph at lines 6--6
+[]|  
+ []
+
+)
 (./_minted-main/761E20203ECBA5C0891DA23174756711DCEF21DC440D7E1F4043F3D9437C321
-F.pygtex) (./graph-theory/chordal-graph.tex)
-runsystem(pygmentize -l cpp -f latex -P commandprefix=PYG -F tokenmerge -o _min
-ted-main/F93E3C019150B7D30561B043F1AF66149A8CE480063081EB0D10995061855883.pygte
-x ./graph-theory/dominator-tree.cpp)...executed.
-
-
+F.pygtex)
 (./_minted-main/F93E3C019150B7D30561B043F1AF66149A8CE480063081EB0D1099506185588
-3.pygtex [33]
-Overfull \hbox (24.86493pt too wide) in paragraph at lines 40--40
-\TU/lmtt/m/n/10.95 pred.adj[x]; 
+3.pygtex
+Overfull \hbox (111.2452pt too wide) in paragraph at lines 2--2
+| | | |[]|  
  []
 
 
-Overfull \hbox (24.86493pt too wide) in paragraph at lines 40--40
-\TU/lmtt/m/n/10.95 pred.nxt[i]) 
+Overfull \hbox (247.67519pt too wide) in paragraph at lines 3--3
+| | | |[]|  
+ []
+
+[27])
+(./_minted-main/CE926FB59DF02C20A8F2A61F23366AE7CDB8CE9411A8B005A893B619439731B
+E.pygtex [28])
+(./_minted-main/B4C2FFEFB0F46246C82A0111EDD587CDDEA9D1EE085270E95DAB950EB3E987E
+8.pygtex
+Overfull \hbox (175.92519pt too wide) in paragraph at lines 4--4
+| | | |[]|  
  []
 
 
-Overfull \hbox (7.61868pt too wide) in paragraph at lines 41--41
-\TU/lmtt/m/n/10.95 p 
+Overfull \hbox (210.92519pt too wide) in paragraph at lines 18--18
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]|  
  []
 
 
-Overfull \hbox (7.61888pt too wide) in paragraph at lines 41--41
-[]\TU/lmtt/m/n/10.95 =[] 
+Overfull \hbox (90.17519pt too wide) in paragraph at lines 73--73
+[][][][][][][][][][][][][][][][][][][][][]|  
+ []
+
+[29]
+Overfull \hbox (90.17519pt too wide) in paragraph at lines 83--83
+[][][][][][][][][][][][][][][][][][][][][]|  
  []
 
 
-Overfull \hbox (59.35762pt too wide) in paragraph at lines 41--41
-\TU/lmtt/m/n/10.95 pred.v[i];|  
+Overfull \hbox (32.42519pt too wide) in paragraph at lines 85--85
+[][][][][][][][][][][][][][][][][][][]|  
  []
 
 
-Overfull \hbox (42.11118pt too wide) in paragraph at lines 42--42
-\TU/lmtt/m/n/10.95 (dfn[p] 
+Overfull \hbox (90.17519pt too wide) in paragraph at lines 93--93
+[][][][][][][][][][][][][][][][][][][][][]|  
  []
 
 
-Overfull \hbox (7.61888pt too wide) in paragraph at lines 42--42
-[]\TU/lmtt/m/n/10.95 <[] 
+Overfull \hbox (90.17519pt too wide) in paragraph at lines 103--103
+[][][][][][][][][][][][][][][][][][][][][]|  
  []
 
 
-Overfull \hbox (13.36743pt too wide) in paragraph at lines 42--42
-[]\TU/lmtt/m/n/10.95 0[]) 
+Overfull \hbox (0.92519pt too wide) in paragraph at lines 111--111
+[][][][][][][][][][][][][][][][][][][]|  
  []
 
 
-Overfull \hbox (53.60887pt too wide) in paragraph at lines 42--42
-[]\TU/lmtt/b/n/10.95 continue[]\TU/lmtt/m/n/10.95 ;|  
+Overfull \hbox (95.42519pt too wide) in paragraph at lines 117--117
+| | | |[][][][][][][][][][][][][][][][]|  
+ []
+
+) (./graph-theory/chordal-graph.tex) (./graph-theory/graph-isomorphism.tex
+Overfull \hbox (94.56313pt too wide) detected at line 7
+\OML/cmm/m/it/10.95 F[]\OT1/cmr/m/n/10.95 (\OML/cmm/m/it/10.95 i\OT1/cmr/m/n/10
+.95 ) = (\OML/cmm/m/it/10.95 F[]\OT1/cmr/m/n/10.95 (\OML/cmm/m/it/10.95 i\OT1/c
+mr/m/n/10.95 ) \OMS/cmsy/m/n/10.95 ^^B \OML/cmm/m/it/10.95 A \OT1/cmr/m/n/10.95
+ + [] \OML/cmm/m/it/10.95 F[]\OT1/cmr/m/n/10.95 (\OML/cmm/m/it/10.95 j\OT1/cmr/
+m/n/10.95 ) \OMS/cmsy/m/n/10.95 ^^B \OML/cmm/m/it/10.95 B \OT1/cmr/m/n/10.95 + 
+[] \OML/cmm/m/it/10.95 F[]\OT1/cmr/m/n/10.95 (\OML/cmm/m/it/10.95 j\OT1/cmr/m/n
+/10.95 ) \OMS/cmsy/m/n/10.95 ^^B \OML/cmm/m/it/10.95 C \OT1/cmr/m/n/10.95 + \OM
+L/cmm/m/it/10.95 D \OMS/cmsy/m/n/10.95 ^^B \OT1/cmr/m/n/10.95 (\OML/cmm/m/it/10
+.95 i \OT1/cmr/m/n/10.95 = \OML/cmm/m/it/10.95 a\OT1/cmr/m/n/10.95 )) \OML/cmm/
+m/it/10.95 mod P
+ []
+
+)) (./string/string.tex
+(./_minted-main/32D22237F14DAE403ED391FF306FE58C749AB3FF4CE2A873746E0CFBDFAADAD
+1.pygtex
+Overfull \hbox (16.67519pt too wide) in paragraph at lines 24--24
+| | | |[][][][][][][][][][][][][][][][][][][][][][][][][][][]|  
+ []
+
+[30])
+(./_minted-main/2A91EA089145A4A2FC9A9CC74F00B660B5103545AB8FF0C9BC1642C59B00140
+6.pygtex
+Overfull \hbox (111.17519pt too wide) in paragraph at lines 4--4
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][]|  
  []
 
 
-Overfull \hbox (42.11118pt too wide) in paragraph at lines 43--43
-\TU/lmtt/m/n/10.95 (dfn[p] 
+Overfull \hbox (200.42519pt too wide) in paragraph at lines 23--23
+| | | |[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
+[][][][][][][][][][][][][][][][][][][][][][][]|  
  []
 
 
-Overfull \hbox (7.61888pt too wide) in paragraph at lines 43--43
-[]\TU/lmtt/m/n/10.95 >[] 
+Overfull \hbox (16.67519pt too wide) in paragraph at lines 33--33
+| | | |[][][][][][][][][][][][][][][][][][][][][][][][]|  
  []
 
 
-Overfull \hbox (42.11118pt too wide) in paragraph at lines 43--43
-\TU/lmtt/m/n/10.95 dfn[x]) 
+Overfull \hbox (200.42519pt too wide) in paragraph at lines 36--36
+| | | |[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
+[][][][][]|  
+ []
+
+)
+(./_minted-main/2D5017122A7CEDC2F9FD069E15D7EE6606017D6CBD0508F80BC7BCF63F3AFD4
+8.pygtex
+Overfull \hbox (195.17519pt too wide) in paragraph at lines 7--7
+[][][][][][][][][][][][][][][][][][][][][][][][]|  
  []
 
 
-Overfull \hbox (7.61888pt too wide) in paragraph at lines 43--43
-\TU/lmtt/m/n/10.95 {|  
+Overfull \hbox (32.42519pt too wide) in paragraph at lines 42--42
+| | | |[][][][][][][][][][][][][][][][][][][][]|  
  []
 
 
-Overfull \hbox (76.60387pt too wide) in paragraph at lines 44--44
-| | | |[][][][][][]\TU/lmtt/m/n/10.95 getfa(p);|  
+Overfull \hbox (0.92519pt too wide) in paragraph at lines 69--69
+| | | |[]|  
+ []
+
+[31])
+(./_minted-main/3985343C489A076334724ECF528CF82F2CE401CD57445B48C9DDC6B694CE144
+3.pygtex)
+(./_minted-main/9734C8DB896ECA9B8D39E8FE919C5C8D4BE808CD18EA4A29F2473C5D42BA25E
+7.pygtex
+Overfull \hbox (11.67519pt too wide) in paragraph at lines 7--7
+[][][]|  
+ []
+
+[32])
+Overfull \hbox (9.02519pt too wide) in paragraph at lines 13--13
+[]\TU/lmr/bx/n/12 Lyndon Word Decomposition NewMeta 
  []
 
 
-Overfull \hbox (47.86012pt too wide) detected at line 44
+(./_minted-main/04880D5D85E203D6F74F453A9A37D3A42AA6F30CFE526F5DC97AC1A10D0D01A
+5.pygtex
+Overfull \hbox (8.70518pt too wide) in paragraph at lines 2--2
+| | | |[]|  
+ []
+
+
+Overfull \hbox (120.42519pt too wide) in paragraph at lines 4--4
+| | | |[]|  
+ []
+
+
+Overfull \hbox (150.42519pt too wide) in paragraph at lines 5--5
+| | | |[]|  
+ []
+
+)
+(./_minted-main/3A536E620BD9759E7559054BB7F4C38F05EBD9273542073E9AC71B9BE3FB9E2
+0.pygtex
+Overfull \hbox (155.17519pt too wide) in paragraph at lines 2--2
+| | | |[]|  
+ []
+
+)) (./hint/hint.tex
+(./_minted-main/8F5D96677228898AC20D6E2CC8B6D0440E90C8EF0E6E8C276E8A9DCCBAEA7C2
+C.pygtex)
+(./_minted-main/22F8A6EF7CEF22795E4A065B6852C11E659A880D672A52A864AF820800D20B3
+E.pygtex [33])
+(./_minted-main/A2255A61CAF76410F75DE584B2A59C9DAE81626467E41837B463DD4ECB016DC
+A.pygtex)
+(./_minted-main/C4AB4B2E52668463B3AF4DB8033425A3B57ADDCAC1204E6E5E0C18681D5338C
+9.pygtex)
+(./_minted-main/5DB42D85A5057475D99F416CEBF57157FBFAB693C0640EC343D0E7781E9FC5B
+3.pygtex)
+(./_minted-main/9C4515FD168725255791DCE8894FDAA02F09FB6DEB4084D83468B781737F0AE
+7.pygtex)
+(./_minted-main/C95279C10263AC29838E0A0D7E1EC3D5110C39C213B467C43DF1C82E5F44B27
+C.pygtex) (./hint/Bernoulli-Number-Reshiram.tex
+! Undefined control sequence.
+l.4 ^^I\[B_m(n) = n^m - \sum_{k = 0}^{m - 1}\binom
+                                                  {m}{k} \frac{B_k(n)}{m - k...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[34]
+! Undefined control sequence.
+l.6 ...k^m = \frac{1}{m + 1}\sum_{k = 0}^{m}\binom
+                                                  {m + 1}{k}n^{m + 1 - k}\]
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+) (./hint/Game-Theory-Reshiram.tex
+Missing character: There is no （ in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ） in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ， in font [lmroman10-regular]:mapping=tex-text;!
+) (./hint/Formula.tex
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 4.
+
+
+! LaTeX Error: Environment align* undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10 \begin{align*}
+                   
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.11 \sum
+         _{\delta|n}\varphi(\delta)d(\frac{n}{\delta}) = \sigma(n),&\ \sum_{...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Misplaced alignment tab character &.
+l.11 ...i(\delta)d(\frac{n}{\delta}) = \sigma(n),&
+                                                  \ \sum_{\delta|n}\left| \m...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.12 \sum_{\delta|n}2^{\omega(\delta)} = d(n^2),&
+                                                 \ \sum_{\delta|n}d(\delta^2...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.13 ...c{n}{\delta})2^{\omega(\delta)} = d^2(n),&
+                                                  \ \sum_{\delta|n}\frac{\mu...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.14 ...rac{\mu(\delta)}{\varphi(\delta)} = d(n),&
+                                                  \ \sum_{\delta|n}\frac{\mu...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+
+! LaTeX Error: \begin{small} on input line 2 ended by \end{align*}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.15 \end{align*}
+                 
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.15 \end{align*}
+                 
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 9--16
+
+ []
+
+! Undefined control sequence.
+l.17 \[ \sum_{\substack
+                       {1 \leq k \leq n \\ \gcd(k, n) = 1}}f(\gcd(k-1, n)) =...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Environment aligned undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.27 \begin{aligned}
+                    
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Misplaced alignment tab character &.
+l.28 &
+      S(n) = \sum_{k=1}^n(f \ast g)(k) \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+<recently read> &
+                 
+l.29 &
+      \sum_{k=1}^nS(\lfloor {n \over k} \rfloor) = \sum_{i=1}^nf(i)\sum_{j=1...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+
+! LaTeX Error: \begin{linenomath} on input line 25 ended by \end{aligned}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.30 \end{aligned}
+                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (1.22784pt too wide) detected at line 32
 []
  []
 
+[35]
 
-Overfull \hbox (30.61368pt too wide) in paragraph at lines 45--45
-| | | |[][][][][][]\TU/lmtt/m/n/10.95 p 
- []
+! LaTeX Error: Environment aligned undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.35 \begin{aligned}
+                    
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Misplaced alignment tab character &.
+l.36 &
+      S(n) = \sum_{k=1}^n(f \cdot g)(k), g \text{ completely multiplicative} \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Undefined control sequence.
+l.36 &S(n) = \sum_{k=1}^n(f \cdot g)(k), g \text
+                                                { completely multiplicative} \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Misplaced alignment tab character &.
+<recently read> &
+                 
+l.37 &
+      \sum_{k=1}^nS(\lfloor {n \over k} \rfloor)g(k) = \sum_{k=1}^n(f \ast 1...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
 
 
-Overfull \hbox (53.60887pt too wide) in paragraph at lines 45--45
-[]\TU/lmtt/m/n/10.95 =[] 
- []
+! LaTeX Error: \begin{linenomath} on input line 33 ended by \end{aligned}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.38 \end{aligned}
+                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
 
 
-Overfull \hbox (128.3426pt too wide) in paragraph at lines 45--45
-\TU/lmtt/m/n/10.95 sdom[smin[p]];|  
- []
-
-
-Overfull \hbox (47.86012pt too wide) detected at line 45
+Overfull \hbox (121.86438pt too wide) detected at line 40
 []
  []
 
+! Undefined control sequence.
+l.60 \[ \text
+             {Modulo }f_n, f_{mn+r} \equiv \left\{
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
 
-Overfull \hbox (76.60367pt too wide) in paragraph at lines 47--47
-\TU/lmtt/m/n/10.95 (dfn[sdom[x]] 
+
+! LaTeX Error: Environment aligned undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.61 \begin{aligned}
+                    
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Misplaced alignment tab character &.
+l.62 &
+      f_r,& m \bmod 4 = 0; \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.62 &f_r,&
+            m \bmod 4 = 0; \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+<recently read> &
+                 
+l.63 &
+      (-1)^{r+1}f_{n-r},& m \bmod 4 = 1; \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.63 &(-1)^{r+1}f_{n-r},&
+                          m \bmod 4 = 1; \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+<recently read> &
+                 
+l.64 &
+      (-1)^nf_r,& m \bmod 4 = 2; \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.64 &(-1)^nf_r,&
+                  m \bmod 4 = 2; \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+<recently read> &
+                 
+l.65 &
+      (-1)^{r+1+n}f_{n-r},& m \bmod 4 = 3.
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.65 &(-1)^{r+1+n}f_{n-r},&
+                            m \bmod 4 = 3.
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+
+! LaTeX Error: \begin{linenomath} on input line 60 ended by \end{aligned}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.66 \end{aligned}
+                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (273.28003pt too wide) detected at line 68
+[]\OML/cmm/m/it/10 f[]; f[] \OMS/cmsy/m/n/10 ^^Q []
  []
 
 
-Overfull \hbox (7.61888pt too wide) in paragraph at lines 47--47
-[]\TU/lmtt/m/n/10.95 >[] 
+! LaTeX Error: Environment align* undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.70 \begin{align*}
+                   
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.71  {n+1 \brack
+                  k} = n{n \brack k} + {n \brack k-1},&\ \  {n+1 \brack 2} =...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Extra }, or forgotten $.
+l.71  {n+1 \brack k}
+                     = n{n \brack k} + {n \brack k-1},&\ \  {n+1 \brack 2} =...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Misplaced alignment tab character &.
+l.71 ...rack k} = n{n \brack k} + {n \brack k-1},&
+                                                  \ \  {n+1 \brack 2} = n!H_...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.72 ...}} = \sum_k{ {n \brack k}(-1)^{n-k}x^k },&
+                                                  \ \  x^{\overline{n}} = \s...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+
+! LaTeX Error: \begin{small} on input line 2 ended by \end{align*}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.73  \end{align*}
+                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.73  \end{align*}
+                  
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.73  \end{align*}
+                  
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+Overfull \hbox (21.18826pt too wide) in paragraph at lines 71--74
+\TU/lmr/m/n/10 n+1 $[]$ 
  []
 
 
-Overfull \hbox (42.11118pt too wide) in paragraph at lines 47--47
-\TU/lmtt/m/n/10.95 dfn[p]) 
+Overfull \hbox (4.78333pt too wide) detected at line 89
+\OML/cmm/m/it/10 f\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 n; k\OT1/cmr/m/n/10 ) = \OM
+L/cmm/m/it/10 p\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 n\OT1/cmr/m/n/10 ) \OMS/cmsy/m
+/n/10 ^^@ \OML/cmm/m/it/10 p\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 n \OMS/cmsy/m/n/1
+0 ^^@ \OML/cmm/m/it/10 k\OT1/cmr/m/n/10 ) \OMS/cmsy/m/n/10 ^^@ \OML/cmm/m/it/10
+ p\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 n \OMS/cmsy/m/n/10 ^^@ \OT1/cmr/m/n/10 2\OM
+L/cmm/m/it/10 k\OT1/cmr/m/n/10 ) + \OML/cmm/m/it/10 p\OT1/cmr/m/n/10 (\OML/cmm/
+m/it/10 n \OMS/cmsy/m/n/10 ^^@ \OT1/cmr/m/n/10 5\OML/cmm/m/it/10 k\OT1/cmr/m/n/
+10 ) + \OML/cmm/m/it/10 p\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 n \OMS/cmsy/m/n/10 ^
+^@ \OT1/cmr/m/n/10 7\OML/cmm/m/it/10 k\OT1/cmr/m/n/10 ) \OMS/cmsy/m/n/10 ^^@ []
+
  []
 
 
-Overfull \hbox (42.11118pt too wide) in paragraph at lines 47--47
-\TU/lmtt/m/n/10.95 sdom[x] 
+Overfull \hbox (38.37964pt too wide) detected at line 99
+\OML/cmm/m/it/10 V \OT1/cmr/m/n/10 = []
+ []
+
+[36]
+Overfull \hbox (4.78448pt too wide) in paragraph at lines 107--109
+\TU/AdobeSongStd-Light.otf(0)/m/n/10 半 径 为 $\OML/cmm/m/it/10 r$ \TU/lmr/m/n/10 
+, \TU/AdobeSongStd-Light.otf(0)/m/n/10 圆 心 角 为 $\OML/cmm/m/it/10 ^^R$ \TU/Adobe
+SongStd-Light.otf(0)/m/n/10 的 扇 形 重 心 与 圆 心 的 距 离 为 $[]$ 
  []
 
 
-Overfull \hbox (7.61888pt too wide) in paragraph at lines 47--47
-[]\TU/lmtt/m/n/10.95 =[] 
+Overfull \hbox (8.68732pt too wide) in paragraph at lines 107--109
+\TU/AdobeSongStd-Light.otf(0)/m/n/10 半 径 为 $\OML/cmm/m/it/10 r$ \TU/lmr/m/n/10 
+, \TU/AdobeSongStd-Light.otf(0)/m/n/10 圆 心 角 为 $\OML/cmm/m/it/10 ^^R$ \TU/Adobe
+SongStd-Light.otf(0)/m/n/10 的 圆 弧 重 心 与 圆 心 的 距 离 为 $[]$ 
  []
 
 
-Overfull \hbox (13.36763pt too wide) in paragraph at lines 47--47
-\TU/lmtt/m/n/10.95 p;|  
+Underfull \hbox (badness 10000) in paragraph at lines 107--109
+
  []
 
 
-Overfull \hbox (24.86493pt too wide) in paragraph at lines 49--49
-| | | |[][][][]\TU/lmtt/m/n/10.95 tmp.ins(sdom[x], 
+! LaTeX Error: Environment aligned undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.118 \[ \begin{aligned}
+                        
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Misplaced alignment tab character &.
+l.119  &
+        \max{\{x_a-x_b, y_a-y_b, z_a-z_b\}} - \min{\{x_a-x_b, y_a-y_b, z_a-z...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.120 =&
+         \frac{1}{2}\sum_{cyc}\left| (x_a-y_a)-(x_b-y_b) \right|
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+
+! LaTeX Error: \begin{linenomath} on input line 118 ended by \end{aligned}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.121 \end{aligned}
+                    \]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (155.8603pt too wide) detected at line 121
+[] [] \OMS/cmsy/m/n/10 ^^@ [] [][]  \OT1/cmr/m/n/10 = [] [] []
  []
 
+)
+! Undefined control sequence.
+l.71 \includepdf
+                [pages={1-2}]{./hint/Integral.pdf}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
 
-Overfull \hbox (59.35762pt too wide) in paragraph at lines 52--52
-\TU/lmtt/m/n/10.95 tmp.v[tmp.adj[x]];|  
+runsystem(pygmentize -l java -f latex -P commandprefix=PYG -F tokenmerge -o _mi
+nted-main/810C8C6A16D88FCB9BB96A43EC268E354A2BEDD17EA09BDD056D33075D374613.pygt
+ex ./hint/template.java)...executed.
+
+
+(./_minted-main/810C8C6A16D88FCB9BB96A43EC268E354A2BEDD17EA09BDD056D33075D37461
+3.pygtex
+LaTeX Font Info:    Font shape `TU/lmtt/bx/n' in size <10.95> not available
+(Font)              Font shape `TU/lmtt/b/n' tried instead on input line 2.
+
+Overfull \hbox (65.10637pt too wide) in paragraph at lines 38--38
+\TU/lmtt/m/n/10.95 StringTokenizer[]([]reader[].[][]readLine[][]());[]|  
  []
 
+[37])
+! Undefined control sequence.
+l.75 \includepdf
+                [pages={1-6}]{./hint/biginteger.pdf}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
 
-Overfull \hbox (70.85512pt too wide) in paragraph at lines 53--53
-\TU/lmtt/m/n/10.95 tmp.nxt[tmp.adj[x]];|  
+! Undefined control sequence.
+l.76 \includepdf
+                [pages={1-7}]{./hint/BigDecimal.pdf}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.77 \includepdf
+                [pages={1-5}]{./hint/treemap.pdf}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+)
+Overfull \hbox (85.51163pt too wide) in paragraph at lines 75--41
+[]\TU/lmr/m/n/10.95 [pages=1-6]./hint/biginteger.pdf [pages=1-7]./hint/BigDecim
+al.pdf
  []
 
-
-Overfull \hbox (36.36243pt too wide) in paragraph at lines 55--55
-\TU/lmtt/m/n/10.95 sdom[smin[y]]) 
- []
-
-
-Overfull \hbox (1.87013pt too wide) in paragraph at lines 55--55
-\TU/lmtt/m/n/10.95 smin[y];|  
- []
-
-[34]))
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 35.
- [35
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 42.
+[38
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 35.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 42.
  (./main.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 35.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 35.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 42.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 42.
 
 
 Package rerunfilecheck Warning: File `main.out' has changed.
@@ -3247,19 +2486,19 @@ Package rerunfilecheck Warning: File `main.out' has changed.
 (rerunfilecheck)                or use package `bookmark'.
 
 Package rerunfilecheck Info: Checksums for `main.out':
-(rerunfilecheck)             Before: AD33E1BAC8666453887CB865FBC269E0
-(rerunfilecheck)             After:  35BBC19A533549B57526ACAC796E3907.
+(rerunfilecheck)             Before: 996283FBFB555BC120ED94AFD42557AF
+(rerunfilecheck)             After:  B32F72C5B33A58E2A2251ACAB2DAC292.
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 24574 strings out of 492962
- 492044 string characters out of 6136967
- 649460 words of memory out of 5000000
- 28261 multiletter control sequences out of 15000+600000
- 536542 words of font info for 61 fonts, out of 8000000 for 9000
+ 24730 strings out of 492962
+ 501900 string characters out of 6136967
+ 676590 words of memory out of 5000000
+ 28355 multiletter control sequences out of 15000+600000
+ 536582 words of font info for 66 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 50i,12n,75p,1088b,596s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 50i,12n,75p,1088b,630s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on main.pdf (35 pages).
+Output written on main.pdf (38 pages).
