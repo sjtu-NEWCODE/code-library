@@ -1,6 +1,3 @@
-// Given a_0, a_1, \cdots, a_{m-1}
-// a_n = c_0 * a_{n-m} + \cdots + c_{m-1} * a_{n-1}
-// a_0 is the n-th element, \cdots, a_{m-1} is the (n + m - 1)-th element
 void linear_recurrence(long long n, int m, int a[], int c[], int p) {
 	long long v[M] = {1 % p}, u[M << 1], msk = !!n;
 	for(long long i(n); i > 1; i >>= 1) {
