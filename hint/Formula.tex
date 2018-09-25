@@ -1,6 +1,6 @@
 \def \bangle{ \atopwithdelims \langle \rangle}
 \begin{small}
-\subsection{Arithmetic Function}
+\subsubsection{Arithmetic Function}
 \[ \sigma_k(n) = \sum_{d|n}d^k = \prod_{i=1}^{\omega(n)}\frac{p_i^{(a_i+1)k}-1}
 {p_i^k-1} \]
 \[ J_k(n) = n^k\prod_{p|n}(1-\frac{1}{p^k}) \]
@@ -38,7 +38,7 @@ $J_k(n)$ is the number of $k$-tuples of positive integers all less than or equal
 \end{aligned}
 \right.
 \]
-\subsection{Binomial Coefficients}
+\subsubsection{Binomial Coefficients}
 \[ {n \choose k} = (-1)^k{k-n-1 \choose k} \]
 \[ \sum_{k \leq n}{r+k \choose k} = {r+n+1 \choose n} \]
 \[ \sum_{k=0}^n{k \choose m} = {n+1 \choose m+1} \]
@@ -46,7 +46,7 @@ $J_k(n)$ is the number of $k$-tuples of positive integers all less than or equal
 \[ \sum_{k=0}^{r}{r-k \choose m}{s+k \choose n} = {r+s+1 \choose m+n+1} \]
 \[ C_{n, m} = {n+m \choose m} - {n+m \choose m-1}, n \geq m \]
 \[ {n \choose k} \equiv [n\& k=k] \pmod 2 \]
-\subsection{Fibonacci Numbers}
+\subsubsection{Fibonacci Numbers}
 \[ F(z) = \frac{z}{1-z-z^2} \]
 \[ f_n = \frac{{\phi}^n-{\hat{\phi}}^n}{\sqrt{5}}, \phi = \frac{1+\sqrt{5}}{2},
 \hat{\phi} = \frac{1-\sqrt{5}}{2} \]
@@ -66,48 +66,48 @@ $J_k(n)$ is the number of $k$-tuples of positive integers all less than or equal
 \end{aligned}
 \right.
 \]
-\subsection{Stirling Cycle Numbers}
+\subsubsection{Stirling Cycle Numbers}
 \begin{align*}
  {n+1 \brack k} = n{n \brack k} + {n \brack k-1},&\ \  {n+1 \brack 2} = n!H_n \\
 x^{\underline{n}} = \sum_k{ {n \brack k}(-1)^{n-k}x^k },&\ \  x^{\overline{n}} = \sum_k{ {n \brack k}x^k } \\
  \end{align*}
-\subsection{Stirling Subset Numbers}
+\subsubsection{Stirling Subset Numbers}
 \[ {n+1 \brace k} = k{n \brace k} + {n \brace k-1} \]
 \[ x^n = \sum_k{ {n \brace k}x^{\underline{k}} } = \sum_k{ {n \brace k}(-1)^{n-k}x^{\overline{k}} } \]
 \[ m!{n \brace m} = \sum_k{m \choose k}k^n(-1)^{m-k} \]
-\subsection{Eulerian Numbers}
+\subsubsection{Eulerian Numbers}
 \[ {n \bangle k} = (k+1){n-1 \bangle k} + (n-k){n-1 \bangle k-1} \]
 \[ x^n = \sum_k{ {n \bangle k}{x+k \choose n} } \]
 \[ {n \bangle m} = \sum_{k=0}^m{n+1 \choose k}(m+1-k)^n(-1)^k \]
-\subsection{Harmonic Numbers}
+\subsubsection{Harmonic Numbers}
 \[ \sum_{k=1}^nH_k = (n+1)H_n-n \]
 \[ \sum_{k=1}^nkH_k = \frac{n(n+1)}{2}H_n - \frac{n(n-1)}{4} \]
 \[ \sum_{k=1}^n{k \choose m}H_k = {n+1 \choose m+1}(H_{n+1} - \frac{1}{m+1}) \]
-\subsection{Pentagonal Number Theorem}
+\subsubsection{Pentagonal Number Theorem}
 \[ \prod_{n=1}^{\infty}(1-x^n) = \sum_{n=-\infty}^{\infty}{(-1)^kx^{k(3k-1)/2}} \]
 \[ p(n) = p(n-1)+p(n-2)-p(n-5)-p(n-7)+\cdots \]
 \[ f(n, k) = p(n)-p(n-k)-p(n-2k)+p(n-5k)+p(n-7k)-\cdots \]
-\subsection{Bell Numbers}
+\subsubsection{Bell Numbers}
 \[ B_{n+1} = \sum_{k=0}^n{n \choose k}B_k \]
 \[ B_{p^m+n} \equiv mB_n+B_{n+1} \pmod{p} \]
-\subsection{Bernoulli Numbers}
+\subsubsection{Bernoulli Numbers}
 \[ B_n = 1 - \sum_{k=0}^{n-1}{n \choose k}\frac{B_k}{n-k+1} \]
 \[ G(x) = \sum_{k=0}^{\infty}\frac{B_k}{k!}x^k
 = \frac{1}{\sum_{k=0}^{\infty}\frac{x^k}{(k+1)!}} \]
 \[ S_m(n) = \frac{1}{m+1}\sum_{k=0}^m{m+1 \choose k}B_kn^{m-k+1} \]
-\subsection{Tetrahedron Volume}
+\subsubsection{Tetrahedron Volume}
 \[ V = \frac{\sqrt{ 4u^2v^2w^2 - \sum_{cyc}{u^2(v^2+w^2-U^2)^2} + \prod_{cyc}{(v^2+w^2-U^2)} }}{12} \]
-\subsection{BEST Thoerem}
+\subsubsection{BEST Thoerem}
 Counting the number of different Eulerian circuits in directed graphs.
 \[ \mathrm{ec}(G) = t_w(G)\prod_{v \in{V}}(\mathrm{deg}(v) - 1)! \]
 When calculating $t_w(G)$ for directed multigraphs, the entry $q_{i,j}$ for distinct $i$ and $j$ equals $−m$, where $m$ is the number of edges from $i$ to $j$, and the entry $q_{i,i}$ equals the indegree of $i$ minus the number of loops at $i$.
 It is a property of Eulerian graphs that $ \mathrm{tv}(G) = \mathrm{tw}(G)$ for every two vertices $v$ and $w$ in a connected Eulerian graph $G$.
 
-\subsection{重心}
+\subsubsection{重心}
 半径为 $r$ , 圆心角为 $\theta$ 的扇形重心与圆心的距离为 $\frac{4r\sin(\theta/2)}{3\theta}$ \\
 半径为 $r$ , 圆心角为 $\theta$ 的圆弧重心与圆心的距离为 $\frac{4r\sin^3(\theta/2)}{3(\theta-\sin(\theta))}$ \\
 
-\subsection{Others}
+\subsubsection{Others}
 \[ S_j = \sum_{k=1}^nx_k^j \]
 \[ h_m = \sum_{1\leq j_1 < \cdots < j_m \leq n} x_{j_1}\cdots x_{j_m} \]
 \[ H_m = \sum_{1\leq j_1 \leq \cdots \leq j_m \leq n} x_{j_1}\cdots x_{j_m} \]
