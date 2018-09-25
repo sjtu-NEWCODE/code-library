@@ -33,3 +33,4 @@
 
 # Vim Temporary File
 *.swp
+*.pygtex

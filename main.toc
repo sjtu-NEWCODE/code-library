@@ -1,0 +1,40 @@
+\contentsline {section}{\numberline {1}计算几何}{3}{section.1}
+\contentsline {subsection}{\numberline {1.1}二维基础}{3}{subsection.1.1}
+\contentsline {subsection}{\numberline {1.2}半平面交}{6}{subsection.1.2}
+\contentsline {subsection}{\numberline {1.3}二维最小圆覆盖}{7}{subsection.1.3}
+\contentsline {subsection}{\numberline {1.4}凸包}{7}{subsection.1.4}
+\contentsline {subsection}{\numberline {1.5}凸包游戏}{8}{subsection.1.5}
+\contentsline {subsection}{\numberline {1.6}圆并}{10}{subsection.1.6}
+\contentsline {subsection}{\numberline {1.7}最远点对}{13}{subsection.1.7}
+\contentsline {subsection}{\numberline {1.8}根轴}{13}{subsection.1.8}
+\contentsline {section}{\numberline {2}字符串}{15}{section.2}
+\contentsline {subsection}{\numberline {2.1}manacher}{15}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}后缀数组}{15}{subsection.2.2}
+\contentsline {subsection}{\numberline {2.3}后缀自动机}{15}{subsection.2.3}
+\contentsline {subsection}{\numberline {2.4}广义后缀自动机}{16}{subsection.2.4}
+\contentsline {subsection}{\numberline {2.5}回文自动机}{17}{subsection.2.5}
+\contentsline {subsection}{\numberline {2.6}Lyndon Word Decomposition NewMeta}{18}{subsection.2.6}
+\contentsline {subsection}{\numberline {2.7}EXKMP NewMeta}{18}{subsection.2.7}
+\contentsline {section}{\numberline {3}数据结构}{18}{section.3}
+\contentsline {subsection}{\numberline {3.1}Link-Cut-Tree}{18}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}KDTree}{19}{subsection.3.2}
+\contentsline {subsection}{\numberline {3.3}莫队上树}{21}{subsection.3.3}
+\contentsline {section}{\numberline {4}图论}{21}{section.4}
+\contentsline {subsection}{\numberline {4.1}点双连通分量}{21}{subsection.4.1}
+\contentsline {subsection}{\numberline {4.2}边双连通分量}{22}{subsection.4.2}
+\contentsline {subsection}{\numberline {4.3}图同构 hash}{23}{subsection.4.3}
+\contentsline {subsection}{\numberline {4.4}有根树同构-Reshiram}{23}{subsection.4.4}
+\contentsline {subsection}{\numberline {4.5}Hopcraft-Karp}{24}{subsection.4.5}
+\contentsline {subsection}{\numberline {4.6}ISAP}{24}{subsection.4.6}
+\contentsline {subsection}{\numberline {4.7}zkw费用流}{25}{subsection.4.7}
+\contentsline {subsection}{\numberline {4.8}无向图全局最小割}{25}{subsection.4.8}
+\contentsline {subsection}{\numberline {4.9}KM}{26}{subsection.4.9}
+\contentsline {subsection}{\numberline {4.10}一般图最大权匹配}{27}{subsection.4.10}
+\contentsline {subsection}{\numberline {4.11}曼哈顿最小生成树}{30}{subsection.4.11}
+\contentsline {subsection}{\numberline {4.12}哈密顿回路}{31}{subsection.4.12}
+\contentsline {subsection}{\numberline {4.13}最大团搜索}{31}{subsection.4.13}
+\contentsline {subsection}{\numberline {4.14}极大团计数}{32}{subsection.4.14}
+\contentsline {subsection}{\numberline {4.15}虚树-NewMeta}{32}{subsection.4.15}
+\contentsline {subsection}{\numberline {4.16}2-Sat}{33}{subsection.4.16}
+\contentsline {subsection}{\numberline {4.17}弦图}{33}{subsection.4.17}
+\contentsline {subsection}{\numberline {4.18}支配树}{33}{subsection.4.18}
