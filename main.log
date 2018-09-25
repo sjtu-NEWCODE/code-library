@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018/W32TeX) (preloaded format=xelatex 2018.9.23)  25 SEP 2018 17:25
+This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018/W32TeX) (preloaded format=xelatex 2018.9.23)  25 SEP 2018 17:37
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -1121,21 +1121,12 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip70
 )
-(c:/texlive/2018/texmf-dist/tex/latex/geometry/geometry.sty
-Package: geometry 2018/04/16 v5.8 Page Geometry
-\Gm@cnth=\count302
-\Gm@cntv=\count303
-\c@Gm@tempcnt=\count304
-\Gm@bindingoffset=\dimen187
-\Gm@wd@mp=\dimen188
-\Gm@odd@mp=\dimen189
-\Gm@even@mp=\dimen190
-\Gm@layoutwidth=\dimen191
-\Gm@layoutheight=\dimen192
-\Gm@layouthoffset=\dimen193
-\Gm@layoutvoffset=\dimen194
-\Gm@dimlist=\toks19
-)
+(c:/texlive/2018/texmf-dist/tex/latex/pdfpages/pdfpages.sty
+Package: pdfpages 2017/10/31 v0.5l Insert pages of external PDF documents (AM)
+
+(c:/texlive/2018/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+Package: eso-pic 2018/04/12 v2.0h eso-pic (RN)
+
 (c:/texlive/2018/texmf-dist/tex/latex/xcolor/xcolor.sty
 Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
 
@@ -1155,6 +1146,50 @@ Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
 Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+))
+(c:/texlive/2018/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(c:/texlive/2018/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+(c:/texlive/2018/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(c:/texlive/2018/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: xetex.def on input line 99.
+)
+\Gin@req@height=\dimen187
+\Gin@req@width=\dimen188
+)
+\AM@pagewidth=\dimen189
+\AM@pageheight=\dimen190
+
+(c:/texlive/2018/texmf-dist/tex/latex/pdfpages/ppxetex.def
+File: ppxetex.def 2017/10/31 v0.5l Pdfpages driver for XeTeX (AM)
+)
+\AM@pagebox=\box52
+\AM@global@opts=\toks19
+\AM@toc@title=\toks20
+\c@AM@survey=\count302
+\AM@templatesizebox=\box53
+)
+(c:/texlive/2018/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2018/04/16 v5.8 Page Geometry
+\Gm@cnth=\count303
+\Gm@cntv=\count304
+\c@Gm@tempcnt=\count305
+\Gm@bindingoffset=\dimen191
+\Gm@wd@mp=\dimen192
+\Gm@odd@mp=\dimen193
+\Gm@even@mp=\dimen194
+\Gm@layoutwidth=\dimen195
+\Gm@layoutheight=\dimen196
+\Gm@layouthoffset=\dimen197
+\Gm@layoutvoffset=\dimen198
+\Gm@dimlist=\toks21
 )
 runsystem(for ^%i in (pygmentize.exe pygmentize.bat pygmentize.cmd) do set > ma
 in.aex <nul: /p x=^%~$PATH:i>> main.aex)...executed.
@@ -1164,31 +1199,31 @@ runsystem(del main.aex)...executed.
  (./main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 27.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 27.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 28.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 28.
 
 (c:/texlive/2018/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
 .................................................
 . fontspec info: "setup-math"
 . 
@@ -1196,59 +1231,59 @@ LaTeX Font Info:    ... okay on input line 27.
 .................................................
 \symlegacymaths=\mathgroup4
 LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
-(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 27.
-LaTeX Font Info:    Redeclaring math accent \acute on input line 27.
-LaTeX Font Info:    Redeclaring math accent \grave on input line 27.
-LaTeX Font Info:    Redeclaring math accent \ddot on input line 27.
-LaTeX Font Info:    Redeclaring math accent \tilde on input line 27.
-LaTeX Font Info:    Redeclaring math accent \bar on input line 27.
-LaTeX Font Info:    Redeclaring math accent \breve on input line 27.
-LaTeX Font Info:    Redeclaring math accent \check on input line 27.
-LaTeX Font Info:    Redeclaring math accent \hat on input line 27.
-LaTeX Font Info:    Redeclaring math accent \dot on input line 27.
-LaTeX Font Info:    Redeclaring math accent \mathring on input line 27.
-LaTeX Font Info:    Redeclaring math symbol \colon on input line 27.
-LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 27.
-LaTeX Font Info:    Redeclaring math symbol \Delta on input line 27.
-LaTeX Font Info:    Redeclaring math symbol \Theta on input line 27.
-LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 27.
-LaTeX Font Info:    Redeclaring math symbol \Xi on input line 27.
-LaTeX Font Info:    Redeclaring math symbol \Pi on input line 27.
-LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 27.
-LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 27.
-LaTeX Font Info:    Redeclaring math symbol \Phi on input line 27.
-LaTeX Font Info:    Redeclaring math symbol \Psi on input line 27.
-LaTeX Font Info:    Redeclaring math symbol \Omega on input line 27.
-LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 27.
-LaTeX Font Info:    Redeclaring symbol font `operators' on input line 27.
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 28.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 28.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 28.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 28.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 28.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 28.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 28.
+LaTeX Font Info:    Redeclaring math accent \check on input line 28.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 28.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 28.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 28.
+LaTeX Font Info:    Redeclaring math symbol \colon on input line 28.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 28.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 28.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 28.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 28.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 28.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 28.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 28.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 28.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 28.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 28.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 28.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 28.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 28.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `normal' on input line 27.
+(Font)              `operators' in the math version `normal' on input line 28.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> TU/lmr/m/n on input line 27.
+(Font)                  OT1/cmr/m/n --> TU/lmr/m/n on input line 28.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `bold' on input line 27.
+(Font)              `operators' in the math version `bold' on input line 28.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> TU/lmr/m/n on input line 27.
+(Font)                  OT1/cmr/bx/n --> TU/lmr/m/n on input line 28.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  TU/lmr/m/n --> TU/lmr/m/n on input line 27.
+(Font)                  TU/lmr/m/n --> TU/lmr/m/n on input line 28.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> TU/lmr/m/it on input line 27.
+(Font)                  OT1/cmr/m/it --> TU/lmr/m/it on input line 28.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> TU/lmr/bx/n on input line 27.
+(Font)                  OT1/cmr/bx/n --> TU/lmr/bx/n on input line 28.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 27.
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 28.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 27.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 28.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  TU/lmr/m/n --> TU/lmr/bx/n on input line 27.
+(Font)                  TU/lmr/m/n --> TU/lmr/bx/n on input line 28.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> TU/lmr/bx/it on input line 27.
+(Font)                  OT1/cmr/bx/it --> TU/lmr/bx/it on input line 28.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> TU/lmss/bx/n on input line 27.
+(Font)                  OT1/cmss/bx/n --> TU/lmss/bx/n on input line 28.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/bx/n on input line 27.
-\AtBeginShipoutBox=\box52
-Package hyperref Info: Link coloring ON on input line 27.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/bx/n on input line 28.
+\AtBeginShipoutBox=\box54
+Package hyperref Info: Link coloring ON on input line 28.
 
 (c:/texlive/2018/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
@@ -1256,17 +1291,26 @@ Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 (c:/texlive/2018/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count305
+\c@section@level=\count306
 )
-LaTeX Info: Redefining \ref on input line 27.
-LaTeX Info: Redefining \pageref on input line 27.
-LaTeX Info: Redefining \nameref on input line 27.
+LaTeX Info: Redefining \ref on input line 28.
+LaTeX Info: Redefining \pageref on input line 28.
+LaTeX Info: Redefining \nameref on input line 28.
 
 (./main.out) (./main.out)
 \@outlinefile=\write6
 \openout6 = `main.out'.
 
 
+(c:/texlive/2018/texmf-dist/tex/latex/oberdiek/pdflscape.sty
+Package: pdflscape 2016/05/14 v0.11 Display of landscape pages in PDF (HO)
+
+(c:/texlive/2018/texmf-dist/tex/latex/graphics/lscape.sty
+Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: dvipdfm (xetex) on input line 99.
+
+)
 *geometry* driver: auto-detecting
 *geometry* detected driver: xetex
 *geometry* verbose mode - [ preamble ] result:
@@ -1302,11 +1346,11 @@ LaTeX Info: Redefining \nameref on input line 27.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 29.
+(Font)              <12> on input line 30.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 29.
+(Font)              <8> on input line 30.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 29.
+(Font)              <6> on input line 30.
 (c:/texlive/2018/texmf-dist/tex/generic/oberdiek/se-ascii-print.def
 File: se-ascii-print.def 2016/05/16 v1.11 stringenc: Printable ASCII characters
 
@@ -1316,11 +1360,11 @@ File: se-ascii-print.def 2016/05/16 v1.11 stringenc: Printable ASCII characters
 (./main.toc
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <10.95> on input line 2.
- [2])
+ [2] [3])
 \tf@toc=\write7
 \openout7 = `main.toc'.
 
- [3] (./computational_geometry/computational_geometry.tex
+ [4] (./computational_geometry/computational_geometry.tex
 (./_minted-main/default-pyg-prefix.pygstyle) (./_minted-main/default.pygstyle)
 (./_minted-main/3DEDB7134A32D96F551050B160124A660A35A5A5921728FBE4E665AD9521B37
 A.pygtex
@@ -1342,11 +1386,11 @@ LaTeX Font Info:    Font shape `TU/lmtt/bx/n' in size <10> not available
 (Font)              Font shape `TU/lmtt/b/n' tried instead on input line 2.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 25.
- [4] [5] [6])
+ [5] [6] [7])
 (./_minted-main/9D75691FAC0ADD862E1DC87A8E2940B5BF03038DF349E14DF59BDA250AB58FA
 3.pygtex)
 (./_minted-main/77132A2ADC182C19F4602795BA85B10D5B876A5CB37638BCC11D1353010316B
-1.pygtex [7])
+1.pygtex [8])
 (./_minted-main/52FF962E66788AE381845207BD4ACC94EABD018C72A90B0F0B59D6A0D9CD10C
 1.pygtex)
 (./_minted-main/2A96DF8EBDD5C87CDA3E8F4D9AF25978F167BB1835A8DC18B158170072380D5
@@ -1357,11 +1401,11 @@ ned
 (Font)              using `TU/AdobeFangsongStd-Regular.otf(0)/m/n' instead on i
 nput line 3.
 
-[8] [9])
+[9] [10])
 (./_minted-main/5581B3161F8C086D7836EDF04B8E99FC853F02C224497513F18666C4982DFB6
-4.pygtex [10] [11])
+4.pygtex [11] [12])
 (./_minted-main/E1FD0B86EF107D46657296E39B4459E82BD63C36A2097C7DF2867A997B0E25D
-4.pygtex [12]) (./computational_geometry/radical_axis.tex)) [13]
+4.pygtex [13]) (./computational_geometry/radical_axis.tex)) [14]
 (./string/string.tex
 (./_minted-main/32D22237F14DAE403ED391FF306FE58C749AB3FF4CE2A873746E0CFBDFAADAD
 1.pygtex
@@ -1400,7 +1444,7 @@ Overfull \hbox (195.17519pt too wide) in paragraph at lines 7--7
 [][][][][][][][][][][][][][][][][][][][][][][][]|  
  []
 
-[14
+[15
 
 ]
 Overfull \hbox (32.42519pt too wide) in paragraph at lines 42--42
@@ -1414,7 +1458,7 @@ Overfull \hbox (0.92519pt too wide) in paragraph at lines 69--69
 
 )
 (./_minted-main/3985343C489A076334724ECF528CF82F2CE401CD57445B48C9DDC6B694CE144
-3.pygtex [15])
+3.pygtex [16])
 (./_minted-main/9734C8DB896ECA9B8D39E8FE919C5C8D4BE808CD18EA4A29F2473C5D42BA25E
 7.pygtex
 Overfull \hbox (11.67519pt too wide) in paragraph at lines 7--7
@@ -1450,11 +1494,11 @@ Overfull \hbox (155.17519pt too wide) in paragraph at lines 2--2
 | | | |[]|  
  []
 
-[16])) (./data-structure/data-structure.tex
+[17])) (./data-structure/data-structure.tex
 (./_minted-main/958DE9A0D739B3CC1C83FEF8B5EF2C805544D23378D87EC4E9A12312E95BE9E
 9.pygtex)
 (./_minted-main/25C6A0731C7BF51995936CF4086F26C82533FD4D4E1B6486A78E42BA73696E9
-B.pygtex [17] [18])
+B.pygtex [18] [19])
 (./_minted-main/B8D77A0D3E904232F3E2AAA943D236425FF8D33985BC038582E1FFFC176A779
 B.pygtex)) (./graph-theory/graph-theory.tex
 (./_minted-main/4BC7265E6F5199CA1F6398A64D6E48D492CA9239FAB350FE214B0DEF7E62F32
@@ -1473,11 +1517,11 @@ Overfull \hbox (58.67519pt too wide) in paragraph at lines 39--39
 | | | |[][][][][][][][][][][][][][][][]|  
  []
 
-[19])
+[20])
 (./_minted-main/71122FCECAD94B791F19FAFC9ADCD0E81B4A495A58F6809C7505F7C1EED5DA0
 B.pygtex)
 (./_minted-main/1938E197E1943936E9A88CB9D6E8649D44EB0548163EACB1936E097591FA815
-A.pygtex [20])
+A.pygtex [21])
 (./_minted-main/6CF49B944DCFF1EE77534A958D18761FA925C57E5FDE9B7F68973C3E07BDA57
 4.pygtex)
 (./_minted-main/EA037AD62A235C02ECDB854AC452AAB89C23E94EE8B81638AC1F9A38C1C9396
@@ -1511,7 +1555,7 @@ Overfull \hbox (80.17519pt too wide) in paragraph at lines 44--44
 | | | |[][][][][][][][][]|  
  []
 
-[21]
+[22]
 Overfull \hbox (32.42519pt too wide) in paragraph at lines 59--59
 | | | |[][][][][][][][][][][][][][][][][][][][][][][][][][][][][]|  
  []
@@ -1600,7 +1644,7 @@ Missing character: There is no � in font [lmmono10-italic]:!
 Missing character: There is no � in font [lmmono10-italic]:!
 Missing character: There is no С in font [lmmono10-italic]:!
 Missing character: There is no � in font [lmmono10-italic]:!
- [22])
+ [23])
 (./_minted-main/10229611D3D758AE61829D9F85F0B14C6D82FF8284876D34CBB7BB8BA1069F0
 A.pygtex
 Overfull \hbox (105.92519pt too wide) in paragraph at lines 5--5
@@ -1624,7 +1668,7 @@ Overfull \hbox (69.2452pt too wide) in paragraph at lines 4--4
 | | | |[]|  
  []
 
-[23] [24]
+[24] [25]
 Overfull \hbox (63.92519pt too wide) in paragraph at lines 160--160
 | | | |[][][][][][][][][][][][][][][][][][] 
  []
@@ -1646,7 +1690,7 @@ Overfull \hbox (58.67519pt too wide) in paragraph at lines 186--186
 
 )
 (./_minted-main/449FC2772B19959B5A79B48AA25EE11273080ECE4C9F20855CA9305D95E4DBE
-8.pygtex [25])
+8.pygtex [26])
 (./_minted-main/EF1C43BA932773F268A1C0610732F3DDB994483E45BC58E5882912F82BBCC6B
 3.pygtex
 Invalid UTF-8 byte or sequence at line 13 replaced by U+FFFD.
@@ -1661,7 +1705,7 @@ Missing character: There is no � in font [lmmono10-italic]:!
 Missing character: There is no � in font [lmmono10-italic]:!
 Missing character: There is no � in font [lmmono10-italic]:!
 Missing character: There is no � in font [lmmono10-italic]:!
- [26]
+ [27]
 Overfull \hbox (74.42519pt too wide) in paragraph at lines 71--71
 [][][][][][]|  
  []
@@ -1702,9 +1746,9 @@ Overfull \hbox (247.67519pt too wide) in paragraph at lines 3--3
 | | | |[]|  
  []
 
-[27])
+[28])
 (./_minted-main/CE926FB59DF02C20A8F2A61F23366AE7CDB8CE9411A8B005A893B619439731B
-E.pygtex [28])
+E.pygtex [29])
 (./_minted-main/B4C2FFEFB0F46246C82A0111EDD587CDDEA9D1EE085270E95DAB950EB3E987E
 8.pygtex
 Overfull \hbox (175.92519pt too wide) in paragraph at lines 4--4
@@ -1721,7 +1765,7 @@ Overfull \hbox (90.17519pt too wide) in paragraph at lines 73--73
 [][][][][][][][][][][][][][][][][][][][][]|  
  []
 
-[29]
+[30]
 Overfull \hbox (90.17519pt too wide) in paragraph at lines 83--83
 [][][][][][][][][][][][][][][][][][][][][]|  
  []
@@ -1772,7 +1816,7 @@ Overfull \hbox (16.67519pt too wide) in paragraph at lines 24--24
 | | | |[][][][][][][][][][][][][][][][][][][][][][][][][][][]|  
  []
 
-[30])
+[31])
 (./_minted-main/2A91EA089145A4A2FC9A9CC74F00B660B5103545AB8FF0C9BC1642C59B00140
 6.pygtex
 Overfull \hbox (111.17519pt too wide) in paragraph at lines 4--4
@@ -1813,7 +1857,7 @@ Overfull \hbox (0.92519pt too wide) in paragraph at lines 69--69
 | | | |[]|  
  []
 
-[31])
+[32])
 (./_minted-main/3985343C489A076334724ECF528CF82F2CE401CD57445B48C9DDC6B694CE144
 3.pygtex)
 (./_minted-main/9734C8DB896ECA9B8D39E8FE919C5C8D4BE808CD18EA4A29F2473C5D42BA25E
@@ -1822,7 +1866,7 @@ Overfull \hbox (11.67519pt too wide) in paragraph at lines 7--7
 [][][]|  
  []
 
-[32])
+[33])
 Overfull \hbox (9.02519pt too wide) in paragraph at lines 13--13
 []\TU/lmr/bx/n/12 Lyndon Word Decomposition NewMeta 
  []
@@ -1851,15 +1895,218 @@ Overfull \hbox (155.17519pt too wide) in paragraph at lines 2--2
 | | | |[]|  
  []
 
+)) (./math/math.tex
+(./_minted-main/D587D388F5E89B577794FA4C56B19A4845AF8915CB47708E6DA0C04C2830887
+6.pygtex [34])
+(./_minted-main/F7461001A2140FCE55BA26BB00B1D09DCA2256C193B9799B25FE2A5E46718AD
+B.pygtex)
+(./_minted-main/02227F7D610C187C396EE1BC746A9BF9ED1BE4BD6B3AC80922CCDCA8EE7892A
+B.pygtex)
+(./_minted-main/0A08400987AEBF89959EEC7ED7FC1E3AFFEB1BE4596BE853A68516B1F20EE59
+3.pygtex [35]
+Overfull \hbox (42.92519pt too wide) in paragraph at lines 53--53
+[][][][][][][][][][][][][][][][][][][][][][][][]|  
+ []
+
+)
+(./_minted-main/36C2ED352D62667EF2BBAC0EDFA8A4F32EFB98E6494859738E84FD3CB0C4513
+3.pygtex [36]
+Overfull \hbox (6.17519pt too wide) in paragraph at lines 34--34
+| | | |[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]|  
+ []
+
+
+Overfull \hbox (84.92519pt too wide) in paragraph at lines 44--44
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]|  
+ []
+
+)
+(./_minted-main/5B5502CC5FD28AD4D7E9715D8136067D49F108B01EC93D12A6F23F96257BF6C
+9.pygtex
+Overfull \hbox (44.67519pt too wide) in paragraph at lines 2--2
+| | | |[]|  
+ []
+
+
+Overfull \hbox (76.17519pt too wide) in paragraph at lines 7--7
+| | | |[]|  
+ []
+
+
+Overfull \hbox (79.67519pt too wide) in paragraph at lines 14--14
+| | | |[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
+[][][][][][][][]|  
+ []
+
+
+Overfull \hbox (69.17519pt too wide) in paragraph at lines 15--15
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]|  
+ []
+
+
+Overfull \hbox (42.92519pt too wide) in paragraph at lines 24--24
+| | | |[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
+[][][]|  
+ []
+
+
+Overfull \hbox (32.42519pt too wide) in paragraph at lines 25--25
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]|  
+ []
+
+[37]
+Overfull \hbox (123.17519pt too wide) in paragraph at lines 39--39
+[][][][][][][][][][][][][]|  
+ []
+
+)
+(./_minted-main/A76AE9421CB1582106129938C0CFB9949D5ABDB18FF0623A2622082EFE0DA54
+2.pygtex
+Overfull \hbox (100.67519pt too wide) in paragraph at lines 27--27
+| | | |[][]|  
+ []
+
+)
+(./_minted-main/422EFA735F4B12FFE2590A8DCD68ADF32271385EE6789CB8041A2E5526D0580
+2.pygtex
+Overfull \hbox (164.42519pt too wide) in paragraph at lines 9--9
+| | | |[]|  
+ []
+
+)
+(./_minted-main/7539B3E02361BEF134B98CC06641C8B04AACEE77BAB74A7F8BE017F9D2BAE51
+8.pygtex)
+(./_minted-main/46858F11DBA8E59E6A62A15A77C914A6E8EC1E6A3FAE130BB53DEB81914BCBF
+4.pygtex [38])
+(./_minted-main/A8DA11601C6C1247578ADA6A4F9615E2FFA14D7644E8B2CA577765989012DFD
+5.pygtex
+Overfull \hbox (128.67519pt too wide) in paragraph at lines 4--4
+| | | |[]|  
+ []
+
+)
+(./_minted-main/2C20155F80CAB885FA9EBFAAD9ADFA21D03B4E5B759D326C8E718336D1C9982
+4.pygtex [39])
+(./_minted-main/8B21B3A0A7E50ADFF385226E1EA1F4EDBE85E747872F575034391B19DF3C39F
+B.pygtex)
+(./_minted-main/4D1D332593D18343D72BA176188619D0BD1670CBC2AAB3A16CC39ED3A7424CA
+7.pygtex)
+(./_minted-main/8A53F41C3FA42CD89E0B989C1B0CF202FEEEA786EBE0360E2B32ABFD2491297
+6.pygtex)
+(./_minted-main/E8CA55AB26A21353C3AE2B24D7CB08816184E58C287D904B3255DA6A5E895BD
+D.pygtex)
+(./_minted-main/3A150087EB9046DF1F5365A1F1548D5400D8908CFFBC29B4453430DC2B7D114
+5.pygtex [40])
+(./_minted-main/4B248DD6B7039906A7D6A819279CA20FF200656E018512E5CF6E8788BAD2FDE
+2.pygtex
+Overfull \hbox (53.46518pt too wide) in paragraph at lines 5--5
+| | | |[]|  
+ []
+
+
+Overfull \hbox (111.21518pt too wide) in paragraph at lines 6--6
+| | | |[]|  
+ []
+
+
+Overfull \hbox (153.17519pt too wide) in paragraph at lines 7--7
+| | | |[]|  
+ []
+
+
+Overfull \hbox (27.45518pt too wide) in paragraph at lines 60--60
+[]|  
+ []
+
+
+Overfull \hbox (160.80519pt too wide) in paragraph at lines 65--65
+| | | |[]|  
+ []
+
+
+Overfull \hbox (195.67519pt too wide) in paragraph at lines 66--66
+| | | |[]|  
+ []
+
+)
+(./_minted-main/1BE9570DC07D1286C1B3EADFF59C9A3AE21A36B56F15995D7731F710B4BE30B
+1.pygtex
+Overfull \hbox (52.92519pt too wide) in paragraph at lines 5--5
+| | | |[]|  
+ []
+
+)
+(./_minted-main/2264F01F18D64C8CDB7C5E54A05DF961539DEF1FA3BEE9AE00A2C0F46A5883D
+6.pygtex
+Overfull \hbox (0.92519pt too wide) in paragraph at lines 2--2
+[][][][][][][][][][][][][][][][][][][][][][][][]|  
+ []
+
+
+Overfull \hbox (27.17519pt too wide) in paragraph at lines 6--6
+[][][][][][][][][][][][][][][][][][][][] 
+ []
+
+[41]
+Overfull \hbox (77.42519pt too wide) in paragraph at lines 9--9
+| | | |[][][][]|  
+ []
+
+
+Overfull \hbox (69.17519pt too wide) in paragraph at lines 16--16
+[][][][][][][][][][][][][][][][][][][][][][][]|  
+ []
+
+)
+(./_minted-main/F251FC4312BDA399D7EE16C51E6B482D76A3F267FF0320B8F91CD0438F48C94
+9.pygtex
+Overfull \hbox (21.92519pt too wide) in paragraph at lines 17--17
+[][][][][][][][][][][][][][][][][][][][][][][][][][]|  
+ []
+
+
+Overfull \hbox (32.42519pt too wide) in paragraph at lines 38--38
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]|  
+ []
+
+
+Overfull \hbox (42.92519pt too wide) in paragraph at lines 41--41
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][]|  
+ []
+
+
+Overfull \hbox (32.42519pt too wide) in paragraph at lines 50--50
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]|  
+ []
+
+
+Overfull \hbox (53.42519pt too wide) in paragraph at lines 67--67
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]|  
+ []
+
+)
+(./_minted-main/D68FC0096BE03F5743CB0AE9941F552B04C8739F8D04BAC2AEB78FF5F4733F0
+8.pygtex [42])
+(./_minted-main/9F2252BD944592A6B93B85154FBF58D8DB26C9756DC42A1537D150A98E291A0
+0.pygtex
+Overfull \hbox (174.92519pt too wide) in paragraph at lines 2--2
+| | | |[]|  
+ []
+
+
+Overfull \hbox (85.41519pt too wide) in paragraph at lines 13--13
+| | | |[]|  
+ []
+
 )) (./hint/hint.tex
 (./_minted-main/8F5D96677228898AC20D6E2CC8B6D0440E90C8EF0E6E8C276E8A9DCCBAEA7C2
 C.pygtex)
 (./_minted-main/22F8A6EF7CEF22795E4A065B6852C11E659A880D672A52A864AF820800D20B3
-E.pygtex [33])
+E.pygtex)
 (./_minted-main/A2255A61CAF76410F75DE584B2A59C9DAE81626467E41837B463DD4ECB016DC
 A.pygtex)
 (./_minted-main/C4AB4B2E52668463B3AF4DB8033425A3B57ADDCAC1204E6E5E0C18681D5338C
-9.pygtex)
+9.pygtex [43])
 (./_minted-main/5DB42D85A5057475D99F416CEBF57157FBFAB693C0640EC343D0E7781E9FC5B
 3.pygtex)
 (./_minted-main/9C4515FD168725255791DCE8894FDAA02F09FB6DEB4084D83468B781737F0AE
@@ -1875,7 +2122,6 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-[34]
 ! Undefined control sequence.
 l.6 ...k^m = \frac{1}{m + 1}\sum_{k = 0}^{m}\binom
                                                   {m + 1}{k}n^{m + 1 - k}\]
@@ -1888,8 +2134,9 @@ and I'll forget about whatever was undefined.
 ) (./hint/Game-Theory-Reshiram.tex
 Missing character: There is no （ in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no ） in font [lmroman10-regular]:mapping=tex-text;!
+ [44]
 Missing character: There is no ， in font [lmroman10-regular]:mapping=tex-text;!
-) (./hint/Formula.tex
+) [45] (./hint/Formula.tex
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 4.
 
@@ -2041,12 +2288,6 @@ Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-Overfull \hbox (1.22784pt too wide) detected at line 32
-[]
- []
-
-[35]
-
 ! LaTeX Error: Environment aligned undefined.
 
 See the LaTeX manual or LaTeX Companion for explanation.
@@ -2103,11 +2344,9 @@ Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
+[46
 
-Overfull \hbox (121.86438pt too wide) detected at line 40
-[]
- []
-
+]
 ! Undefined control sequence.
 l.60 \[ \text
              {Modulo }f_n, f_{mn+r} \equiv \left\{
@@ -2230,7 +2469,7 @@ Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-Overfull \hbox (273.28003pt too wide) detected at line 68
+Overfull \hbox (12.20522pt too wide) detected at line 68
 []\OML/cmm/m/it/10 f[]; f[] \OMS/cmsy/m/n/10 ^^Q []
  []
 
@@ -2319,49 +2558,12 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-
-Overfull \hbox (21.18826pt too wide) in paragraph at lines 71--74
-\TU/lmr/m/n/10 n+1 $[]$ 
- []
-
-
-Overfull \hbox (4.78333pt too wide) detected at line 89
-\OML/cmm/m/it/10 f\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 n; k\OT1/cmr/m/n/10 ) = \OM
-L/cmm/m/it/10 p\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 n\OT1/cmr/m/n/10 ) \OMS/cmsy/m
-/n/10 ^^@ \OML/cmm/m/it/10 p\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 n \OMS/cmsy/m/n/1
-0 ^^@ \OML/cmm/m/it/10 k\OT1/cmr/m/n/10 ) \OMS/cmsy/m/n/10 ^^@ \OML/cmm/m/it/10
- p\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 n \OMS/cmsy/m/n/10 ^^@ \OT1/cmr/m/n/10 2\OM
-L/cmm/m/it/10 k\OT1/cmr/m/n/10 ) + \OML/cmm/m/it/10 p\OT1/cmr/m/n/10 (\OML/cmm/
-m/it/10 n \OMS/cmsy/m/n/10 ^^@ \OT1/cmr/m/n/10 5\OML/cmm/m/it/10 k\OT1/cmr/m/n/
-10 ) + \OML/cmm/m/it/10 p\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 n \OMS/cmsy/m/n/10 ^
-^@ \OT1/cmr/m/n/10 7\OML/cmm/m/it/10 k\OT1/cmr/m/n/10 ) \OMS/cmsy/m/n/10 ^^@ []
-
- []
-
-
-Overfull \hbox (38.37964pt too wide) detected at line 99
-\OML/cmm/m/it/10 V \OT1/cmr/m/n/10 = []
- []
-
-[36]
-Overfull \hbox (4.78448pt too wide) in paragraph at lines 107--109
-\TU/AdobeSongStd-Light.otf(0)/m/n/10 半 径 为 $\OML/cmm/m/it/10 r$ \TU/lmr/m/n/10 
-, \TU/AdobeSongStd-Light.otf(0)/m/n/10 圆 心 角 为 $\OML/cmm/m/it/10 ^^R$ \TU/Adobe
-SongStd-Light.otf(0)/m/n/10 的 扇 形 重 心 与 圆 心 的 距 离 为 $[]$ 
- []
-
-
-Overfull \hbox (8.68732pt too wide) in paragraph at lines 107--109
-\TU/AdobeSongStd-Light.otf(0)/m/n/10 半 径 为 $\OML/cmm/m/it/10 r$ \TU/lmr/m/n/10 
-, \TU/AdobeSongStd-Light.otf(0)/m/n/10 圆 心 角 为 $\OML/cmm/m/it/10 ^^R$ \TU/Adobe
-SongStd-Light.otf(0)/m/n/10 的 圆 弧 重 心 与 圆 心 的 距 离 为 $[]$ 
- []
-
-
+[47]
 Underfull \hbox (badness 10000) in paragraph at lines 107--109
 
  []
 
+[48]
 
 ! LaTeX Error: Environment aligned undefined.
 
@@ -2408,97 +2610,206 @@ Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-
-Overfull \hbox (155.8603pt too wide) detected at line 121
-[] [] \OMS/cmsy/m/n/10 ^^@ [] [][]  \OT1/cmr/m/n/10 = [] [] []
- []
-
 )
-! Undefined control sequence.
-l.71 \includepdf
-                [pages={1-2}]{./hint/Integral.pdf}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-runsystem(pygmentize -l java -f latex -P commandprefix=PYG -F tokenmerge -o _mi
-nted-main/810C8C6A16D88FCB9BB96A43EC268E354A2BEDD17EA09BDD056D33075D374613.pygt
-ex ./hint/template.java)...executed.
-
-
+File: ./hint/Integral.pdf Graphic file (type pdf)
+<use ./hint/Integral.pdf>
+File: ./hint/Integral.pdf Graphic file (type pdf)
+<use ./hint/Integral.pdf>
+File: ./hint/Integral.pdf Graphic file (type pdf)
+<use ./hint/Integral.pdf, page 1>
+File: ./hint/Integral.pdf Graphic file (type pdf)
+<use ./hint/Integral.pdf, page 1>
+ [49]
+File: ./hint/Integral.pdf Graphic file (type pdf)
+<use ./hint/Integral.pdf, page 1>
+File: ./hint/Integral.pdf Graphic file (type pdf)
+<use ./hint/Integral.pdf, page 1>
+File: ./hint/Integral.pdf Graphic file (type pdf)
+<use ./hint/Integral.pdf, page 1>
+ [50]
+File: ./hint/Integral.pdf Graphic file (type pdf)
+<use ./hint/Integral.pdf, page 2>
+File: ./hint/Integral.pdf Graphic file (type pdf)
+<use ./hint/Integral.pdf, page 2>
+File: ./hint/Integral.pdf Graphic file (type pdf)
+<use ./hint/Integral.pdf, page 2>
+ [51]
 (./_minted-main/810C8C6A16D88FCB9BB96A43EC268E354A2BEDD17EA09BDD056D33075D37461
 3.pygtex
 LaTeX Font Info:    Font shape `TU/lmtt/bx/n' in size <10.95> not available
 (Font)              Font shape `TU/lmtt/b/n' tried instead on input line 2.
-
-Overfull \hbox (65.10637pt too wide) in paragraph at lines 38--38
-\TU/lmtt/m/n/10.95 StringTokenizer[]([]reader[].[][]readLine[][]());[]|  
- []
-
-[37])
-! Undefined control sequence.
-l.75 \includepdf
-                [pages={1-6}]{./hint/biginteger.pdf}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.76 \includepdf
-                [pages={1-7}]{./hint/BigDecimal.pdf}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.77 \includepdf
-                [pages={1-5}]{./hint/treemap.pdf}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
 )
-Overfull \hbox (85.51163pt too wide) in paragraph at lines 75--41
-[]\TU/lmr/m/n/10.95 [pages=1-6]./hint/biginteger.pdf [pages=1-7]./hint/BigDecim
-al.pdf
- []
+File: ./hint/biginteger.pdf Graphic file (type pdf)
+<use ./hint/biginteger.pdf>
+File: ./hint/biginteger.pdf Graphic file (type pdf)
+<use ./hint/biginteger.pdf>
+File: ./hint/biginteger.pdf Graphic file (type pdf)
+<use ./hint/biginteger.pdf, page 1>
+File: ./hint/biginteger.pdf Graphic file (type pdf)
+<use ./hint/biginteger.pdf, page 1>
+ [52]
+File: ./hint/biginteger.pdf Graphic file (type pdf)
+<use ./hint/biginteger.pdf, page 1>
+File: ./hint/biginteger.pdf Graphic file (type pdf)
+<use ./hint/biginteger.pdf, page 1>
+File: ./hint/biginteger.pdf Graphic file (type pdf)
+<use ./hint/biginteger.pdf, page 1>
+ [53]
+File: ./hint/biginteger.pdf Graphic file (type pdf)
+<use ./hint/biginteger.pdf, page 2>
+File: ./hint/biginteger.pdf Graphic file (type pdf)
+<use ./hint/biginteger.pdf, page 2>
+File: ./hint/biginteger.pdf Graphic file (type pdf)
+<use ./hint/biginteger.pdf, page 2>
+ [54]
+File: ./hint/biginteger.pdf Graphic file (type pdf)
+<use ./hint/biginteger.pdf, page 3>
+File: ./hint/biginteger.pdf Graphic file (type pdf)
+<use ./hint/biginteger.pdf, page 3>
+File: ./hint/biginteger.pdf Graphic file (type pdf)
+<use ./hint/biginteger.pdf, page 3>
+ [55]
+File: ./hint/biginteger.pdf Graphic file (type pdf)
+<use ./hint/biginteger.pdf, page 4>
+File: ./hint/biginteger.pdf Graphic file (type pdf)
+<use ./hint/biginteger.pdf, page 4>
+File: ./hint/biginteger.pdf Graphic file (type pdf)
+<use ./hint/biginteger.pdf, page 4>
+ [56]
+File: ./hint/biginteger.pdf Graphic file (type pdf)
+<use ./hint/biginteger.pdf, page 5>
+File: ./hint/biginteger.pdf Graphic file (type pdf)
+<use ./hint/biginteger.pdf, page 5>
+File: ./hint/biginteger.pdf Graphic file (type pdf)
+<use ./hint/biginteger.pdf, page 5>
+ [57]
+File: ./hint/biginteger.pdf Graphic file (type pdf)
+<use ./hint/biginteger.pdf, page 6>
+File: ./hint/biginteger.pdf Graphic file (type pdf)
+<use ./hint/biginteger.pdf, page 6>
+File: ./hint/biginteger.pdf Graphic file (type pdf)
+<use ./hint/biginteger.pdf, page 6>
+ [58]
+File: ./hint/BigDecimal.pdf Graphic file (type pdf)
+<use ./hint/BigDecimal.pdf>
+File: ./hint/BigDecimal.pdf Graphic file (type pdf)
+<use ./hint/BigDecimal.pdf>
+File: ./hint/BigDecimal.pdf Graphic file (type pdf)
+<use ./hint/BigDecimal.pdf, page 1>
+File: ./hint/BigDecimal.pdf Graphic file (type pdf)
+<use ./hint/BigDecimal.pdf, page 1>
+File: ./hint/BigDecimal.pdf Graphic file (type pdf)
+<use ./hint/BigDecimal.pdf, page 1>
+File: ./hint/BigDecimal.pdf Graphic file (type pdf)
+<use ./hint/BigDecimal.pdf, page 1>
+File: ./hint/BigDecimal.pdf Graphic file (type pdf)
+<use ./hint/BigDecimal.pdf, page 1>
+ [59]
+File: ./hint/BigDecimal.pdf Graphic file (type pdf)
+<use ./hint/BigDecimal.pdf, page 2>
+File: ./hint/BigDecimal.pdf Graphic file (type pdf)
+<use ./hint/BigDecimal.pdf, page 2>
+File: ./hint/BigDecimal.pdf Graphic file (type pdf)
+<use ./hint/BigDecimal.pdf, page 2>
+ [60]
+File: ./hint/BigDecimal.pdf Graphic file (type pdf)
+<use ./hint/BigDecimal.pdf, page 3>
+File: ./hint/BigDecimal.pdf Graphic file (type pdf)
+<use ./hint/BigDecimal.pdf, page 3>
+File: ./hint/BigDecimal.pdf Graphic file (type pdf)
+<use ./hint/BigDecimal.pdf, page 3>
+ [61]
+File: ./hint/BigDecimal.pdf Graphic file (type pdf)
+<use ./hint/BigDecimal.pdf, page 4>
+File: ./hint/BigDecimal.pdf Graphic file (type pdf)
+<use ./hint/BigDecimal.pdf, page 4>
+File: ./hint/BigDecimal.pdf Graphic file (type pdf)
+<use ./hint/BigDecimal.pdf, page 4>
+ [62]
+File: ./hint/BigDecimal.pdf Graphic file (type pdf)
+<use ./hint/BigDecimal.pdf, page 5>
+File: ./hint/BigDecimal.pdf Graphic file (type pdf)
+<use ./hint/BigDecimal.pdf, page 5>
+File: ./hint/BigDecimal.pdf Graphic file (type pdf)
+<use ./hint/BigDecimal.pdf, page 5>
+ [63]
+File: ./hint/BigDecimal.pdf Graphic file (type pdf)
+<use ./hint/BigDecimal.pdf, page 6>
+File: ./hint/BigDecimal.pdf Graphic file (type pdf)
+<use ./hint/BigDecimal.pdf, page 6>
+File: ./hint/BigDecimal.pdf Graphic file (type pdf)
+<use ./hint/BigDecimal.pdf, page 6>
+ [64]
+File: ./hint/BigDecimal.pdf Graphic file (type pdf)
+<use ./hint/BigDecimal.pdf, page 7>
+File: ./hint/BigDecimal.pdf Graphic file (type pdf)
+<use ./hint/BigDecimal.pdf, page 7>
+File: ./hint/BigDecimal.pdf Graphic file (type pdf)
+<use ./hint/BigDecimal.pdf, page 7>
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 42.
-[38
-
-]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 42.
+[65]
+File: ./hint/treemap.pdf Graphic file (type pdf)
+<use ./hint/treemap.pdf>
+File: ./hint/treemap.pdf Graphic file (type pdf)
+<use ./hint/treemap.pdf>
+File: ./hint/treemap.pdf Graphic file (type pdf)
+<use ./hint/treemap.pdf, page 1>
+File: ./hint/treemap.pdf Graphic file (type pdf)
+<use ./hint/treemap.pdf, page 1>
+File: ./hint/treemap.pdf Graphic file (type pdf)
+<use ./hint/treemap.pdf, page 1>
+File: ./hint/treemap.pdf Graphic file (type pdf)
+<use ./hint/treemap.pdf, page 1>
+File: ./hint/treemap.pdf Graphic file (type pdf)
+<use ./hint/treemap.pdf, page 1>
+ [66]
+File: ./hint/treemap.pdf Graphic file (type pdf)
+<use ./hint/treemap.pdf, page 2>
+File: ./hint/treemap.pdf Graphic file (type pdf)
+<use ./hint/treemap.pdf, page 2>
+File: ./hint/treemap.pdf Graphic file (type pdf)
+<use ./hint/treemap.pdf, page 2>
+ [67]
+File: ./hint/treemap.pdf Graphic file (type pdf)
+<use ./hint/treemap.pdf, page 3>
+File: ./hint/treemap.pdf Graphic file (type pdf)
+<use ./hint/treemap.pdf, page 3>
+File: ./hint/treemap.pdf Graphic file (type pdf)
+<use ./hint/treemap.pdf, page 3>
+ [68]
+File: ./hint/treemap.pdf Graphic file (type pdf)
+<use ./hint/treemap.pdf, page 4>
+File: ./hint/treemap.pdf Graphic file (type pdf)
+<use ./hint/treemap.pdf, page 4>
+File: ./hint/treemap.pdf Graphic file (type pdf)
+<use ./hint/treemap.pdf, page 4>
+ [69]
+File: ./hint/treemap.pdf Graphic file (type pdf)
+<use ./hint/treemap.pdf, page 5>
+File: ./hint/treemap.pdf Graphic file (type pdf)
+<use ./hint/treemap.pdf, page 5>
+File: ./hint/treemap.pdf Graphic file (type pdf)
+<use ./hint/treemap.pdf, page 5>
+ [70])
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 43.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 43.
  (./main.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 42.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 42.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 43.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 43.
+Package rerunfilecheck Info: File `main.out' has not changed.
+(rerunfilecheck)             Checksum: 764968C0888526EB2372D1EAB9AC2C0A.
 
-
-Package rerunfilecheck Warning: File `main.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `main.out':
-(rerunfilecheck)             Before: 996283FBFB555BC120ED94AFD42557AF
-(rerunfilecheck)             After:  B32F72C5B33A58E2A2251ACAB2DAC292.
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 24730 strings out of 492962
- 501900 string characters out of 6136967
- 676590 words of memory out of 5000000
- 28355 multiletter control sequences out of 15000+600000
+ 25719 strings out of 492962
+ 524738 string characters out of 6136967
+ 698371 words of memory out of 5000000
+ 29234 multiletter control sequences out of 15000+600000
  536582 words of font info for 66 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 50i,12n,75p,1088b,630s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 50i,18n,75p,1088b,630s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on main.pdf (38 pages).
+Output written on main.pdf (70 pages).
