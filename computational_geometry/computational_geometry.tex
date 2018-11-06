@@ -2,6 +2,25 @@
 %\cleardoublepage
 \subsection{二维基础}
 \inputminted[breaklines]{cpp}{./computational_geometry/two_dimensions_basic.cpp}
+\subsection{三角形公式}
+\subsubsection{三角形内心}
+$\frac{a \vec{A} + b \vec{B} + c \vec{C}}{a + b + c}$
+\subsubsection{三角形外心}
+$\frac{\vec{A} + \vec{B} - \frac{\vec{BC} \cdot \vec{CA}}{\vec{AB} \times \vec{BC}} \vec{AB}^T}{2}$
+\subsubsection{三角形垂心}
+$\vec{H} = 3 \vec{G} - 2 \vec{O}$
+\subsubsection{三角形旁心}
+$\frac{-a \vec{A} + b \vec{B} + c \vec{C}}{-a + b + c}$ （其余两点同理）
+\subsubsection{三角形外接圆半径}
+$R = \frac{abc}{4S}$
+\subsubsection{海伦公式}
+$$
+2s = a + b + c \\
+S = \sqrt{s(s - a)(s - b)(s - c)}
+$$
+\subsubsection{皮克公式}
+顶点全都在格子上的简单多边形的面积$S$可由边上的格点数$B$、内部的格点数$I$表示为 \\
+$S = \frac{B}{2} + I - 1$
 \subsection{半平面交}
 \inputminted[breaklines]{cpp}{./computational_geometry/half_plane_intersection.cpp}
 \subsection{二维最小圆覆盖}
