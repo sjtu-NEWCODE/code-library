@@ -3,24 +3,24 @@
 \subsection{二维基础}
 \inputminted[breaklines]{cpp}{./computational_geometry/two_dimensions_basic.cpp}
 \subsection{三角形公式}
-\subsubsection{三角形内心}
-$\frac{a \vec{A} + b \vec{B} + c \vec{C}}{a + b + c}$
-\subsubsection{三角形外心}
-$\frac{\vec{A} + \vec{B} - \frac{\vec{BC} \cdot \vec{CA}}{\vec{AB} \times \vec{BC}} \vec{AB}^T}{2}$
-\subsubsection{三角形垂心}
-$\vec{H} = 3 \vec{G} - 2 \vec{O}$
-\subsubsection{三角形旁心}
-$\frac{-a \vec{A} + b \vec{B} + c \vec{C}}{-a + b + c}$ （其余两点同理）
-\subsubsection{三角形外接圆半径}
-$R = \frac{abc}{4S}$
-\subsubsection{海伦公式}
-$$
-2s = a + b + c \\
-S = \sqrt{s(s - a)(s - b)(s - c)}
-$$
-\subsubsection{皮克公式}
-顶点全都在格子上的简单多边形的面积$S$可由边上的格点数$B$、内部的格点数$I$表示为 \\
-$S = \frac{B}{2} + I - 1$
+	\subsubsection{三角形内心}
+	$\frac{a \vec{A} + b \vec{B} + c \vec{C}}{a + b + c}$
+	\subsubsection{三角形外心}
+	$\frac{\vec{A} + \vec{B} - \frac{\vec{BC} \cdot \vec{CA}}{\vec{AB} \times \vec{BC}} \vec{AB}^T}{2}$
+	\subsubsection{三角形垂心}
+	$\vec{H} = 3 \vec{G} - 2 \vec{O}$
+	\subsubsection{三角形旁心}
+	$\frac{-a \vec{A} + b \vec{B} + c \vec{C}}{-a + b + c}$ （其余两点同理）
+	\subsubsection{三角形外接圆半径}
+	$R = \frac{abc}{4S}$
+	\subsubsection{海伦公式}
+	$$
+	2s = a + b + c \\
+	S = \sqrt{s(s - a)(s - b)(s - c)}
+	$$
+	\subsubsection{皮克公式}
+	顶点全都在格子上的简单多边形的面积$S$可由边上的格点数$B$、内部的格点数$I$表示为 \\
+	$S = \frac{B}{2} + I - 1$
 \subsection{半平面交}
 \inputminted[breaklines]{cpp}{./computational_geometry/half_plane_intersection.cpp}
 \subsection{二维最小圆覆盖}
@@ -37,3 +37,18 @@ $S = \frac{B}{2} + I - 1$
 \input{./computational_geometry/radical_axis.tex}
 \subsection{Farmland - 平面图转对偶图}
 \inputminted[breaklines]{cpp}{./computational_geometry/Farmland.cpp}
+\subsection{三维基础}
+	\inputminted[breaklines]{cpp}{./computational_geometry/three_dimensions_basic.cpp}
+	两点在平面同侧：与法向量的点积符号相同 \\
+	两直线平行/垂直：同二维 \\
+	平面平行/垂直：判断法向量 \\
+	线面垂直：法向量和直线平行 \\
+	判断空间线段是否相交：四点共面两线段不平行相互在异侧 \\
+	线段和三角形是否相交：线段在三角形平面不同侧三角形任意两点在线段和第三点组成的平面的不同侧 \\
+	求平面交线：取一平面与另一平面不平行的一条直线与另一平面的交点，以及法向量叉积得到直线方向 \\
+	点到直线距离：叉积得到三角形的面积除以底边 \\
+	点到平面距离：点积法向量 \\
+	直线间距离：平行时随便取一点求距离，否则叉积方向向量得到方向点积计算长度 \\
+	直线夹角：点积  平面夹角：法向量点积
+\subsection{三维凸包}
+\inputminted[breaklines]{cpp}{./computational_geometry/convex_hull_3dim.cpp}
